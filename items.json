@@ -1,0 +1,618 @@
+{
+ "updated": "2026-10-20",
+ "items": [
+  {
+   "id": "pymnts-stressed-grocery-shoppers-digital-wallets",
+   "title": "21% of Financially Stressed Grocery Shoppers Use Digital Wallets",
+   "url": "https://www.pymnts.com/consumer-insights/2026/21-percent-of-financially-stressed-grocery-shoppers-use-digital-wallets/",
+   "source": "PYMNTS",
+   "kind": "report",
+   "topic": "retail",
+   "published": "2026-10-20",
+   "added": "2026-10-20",
+   "summary": "PYMNTS survey data show financially stressed grocery shoppers are far more likely than others to pay with a digital wallet (21% vs 8%) and to buy groceries online, with their wallet use roughly doubling since early 2024. A growing wallet and online mix changes the fraud and authorization profile at grocery checkout.",
+   "tags": [
+    "digital-wallets",
+    "grocery",
+    "consumer-data",
+    "checkout"
+   ]
+  },
+  {
+   "id": "pymnts-skyfire-forter-agentic-decisioning",
+   "title": "Skyfire and Forter Team to Strengthen Agentic Commerce Decisioning",
+   "url": "https://pymnts.com/partnerships/2026/skyfire-and-forter-team-to-strengthen-agentic-commerce-decisioning",
+   "source": "PYMNTS",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-19",
+   "added": "2026-10-20",
+   "summary": "Forter is feeding Skyfire's know-your-agent data into its fraud decisions so merchants can verify both the AI agent placing an order and the person it acts for. Agent identity is quickly becoming a first-class risk signal alongside device and account data.",
+   "tags": [
+    "agentic-commerce",
+    "forter",
+    "bot-detection",
+    "identity"
+   ]
+  },
+  {
+   "id": "sift-id-leak-verification-change",
+   "title": "When Identity Documents Leak, Verification Has to Change",
+   "url": "https://sift.com/blog/id-leak-verification-change/",
+   "source": "Sift",
+   "kind": "blog",
+   "topic": "fraud",
+   "published": "2026-10-16",
+   "added": "2026-10-20",
+   "summary": "Using a reported insider leak of about 680 Revolut customers' KYC files as the hook, Sift argues that a genuine stolen passport plus selfie can pass document checks. Verification needs to layer device, behavioral and network-linkage signals and keep re-scoring identity over time, especially for enrollment and account recovery.",
+   "tags": [
+    "identity-verification",
+    "kyc",
+    "account-takeover",
+    "synthetic-identity"
+   ]
+  },
+  {
+   "id": "stripe-scaling-radar-agent-assisted-ml",
+   "title": "Scaling Radar: Fighting fraud with agent-assisted machine learning",
+   "url": "https://stripe.dev/blog/scaling-radar-fighting-fraud-with-agent-assisted-machine-learning",
+   "source": "Stripe",
+   "kind": "blog",
+   "topic": "engineering",
+   "published": "2026-10-16",
+   "added": "2026-10-20",
+   "summary": "Stripe trained its Radar fraud model on about 11 billion transactions and cut epoch time by 80%, then rolled back because immature labels (disputes arrive weeks later) made the bigger dataset worse. It also explains how AI agents now run feature and training experiments on its shared offline and online feature platform, with human checkpoints.",
+   "tags": [
+    "fraud-ml",
+    "feature-store",
+    "label-delay",
+    "ml-platform"
+   ]
+  },
+  {
+   "id": "cfotech-chargebacks911-holiday-disputes",
+   "title": "Retailers warned fraud & disputes may stretch into new year",
+   "url": "https://cfotech.news/story/retailers-warned-fraud-disputes-may-stretch-into-new-year",
+   "source": "CFOtech",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-14",
+   "added": "2026-10-20",
+   "summary": "Chargebacks911 warns that an earlier start to holiday shopping widens the fraud window, and that refund abuse and chargebacks from peak-season sales keep arriving well into the first quarter. Merchants estimate about a quarter of returns are abusive, so December fraud numbers alone understate the real cost.",
+   "tags": [
+    "chargebacks",
+    "refund-abuse",
+    "holiday-peak",
+    "first-party-fraud"
+   ]
+  },
+  {
+   "id": "sift-fraud-attack-defense-suite",
+   "title": "Your Fraud Team's New First Responder: Introducing the Sift Fraud Attack Defense Suite",
+   "url": "https://sift.com/blog/introducing-the-sift-fraud-attack-defense-suite/",
+   "source": "Sift",
+   "kind": "blog",
+   "topic": "fraud",
+   "published": "2026-10-06",
+   "added": "2026-10-20",
+   "summary": "Sift launched an attack-detection agent that baselines each customer's own traffic and alerts on BIN velocity, low-value transaction surges, chargeback spikes and registration bursts, using statistical methods rather than generative AI. Its alert set is a practical checklist for card-testing and velocity monitoring.",
+   "tags": [
+    "card-testing",
+    "velocity",
+    "anomaly-detection",
+    "sift"
+   ]
+  },
+  {
+   "id": "dailyjournal-self-checkout-restrictions-lawsuits",
+   "title": "Self-checkout restrictions open a new lane for lawsuits",
+   "url": "https://dailyjournal.com/articles/394946-self-checkout-restrictions-open-a-new-lane-for-lawsuits",
+   "source": "Daily Journal",
+   "kind": "article",
+   "topic": "retail",
+   "published": "2026-10-02",
+   "added": "2026-10-20",
+   "summary": "An employment lawyer explains how Long Beach's self-checkout ordinance, now copied by other California cities, sets staffing ratios and a 15-item limit for grocery and drug stores and lets customers or employees sue per violation. Spreading local rules like these could change how retailers design and staff self-checkout.",
+   "tags": [
+    "self-checkout",
+    "regulation",
+    "grocery",
+    "california"
+   ]
+  },
+  {
+   "id": "digitaltransactions-pax-wink-biometric-checkout",
+   "title": "PAX Enlists Wink's Face and Palm Checkout at the Point of Sale",
+   "url": "https://www.digitaltransactions.net/pax-enlists-winks-face-and-palm-checkout-at-the-point-of-sale/",
+   "source": "Digital Transactions",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-10-16",
+   "added": "2026-10-19",
+   "summary": "PAX is building Wink's face and palm recognition into its point-of-sale apps so enrolled shoppers can pay or be recognized for loyalty on camera-equipped terminals, with liveness checks against spoofing. Biometric checkout adds a new identity signal at the register, along with new spoofing risks.",
+   "tags": [
+    "biometrics",
+    "pos",
+    "checkout",
+    "identity"
+   ]
+  },
+  {
+   "id": "paymentsdive-stripe-agentic-commerce-revs-up",
+   "title": "Stripe agentic commerce revs up",
+   "url": "https://www.paymentsdive.com/news/stripe-agentic-commerce-revs-up/833109/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-10-15",
+   "added": "2026-10-19",
+   "summary": "Stripe's John Collison said agent-driven purchase activity climbed steeply from September, without giving numbers, while Amazon has blocked Meta's Muse assistant from shopping on its site. The contrast frames the build-or-block choice large retailers face on agent traffic.",
+   "tags": [
+    "stripe",
+    "agentic-commerce",
+    "meta-muse"
+   ]
+  },
+  {
+   "id": "digitaltransactions-accertify-agentic-checkout",
+   "title": "Accertify tallies agentic checkout",
+   "url": "https://www.digitaltransactions.net/accertify-tallies-agentic-checkout-and-other-digital-transactions-news-briefs-from-10-15-26/",
+   "source": "Digital Transactions",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-14",
+   "added": "2026-10-19",
+   "summary": "Accertify separated AI-assisted browsing from fully autonomous agent purchases and found the latter is still a tiny fraction of transactions in its data. A useful reality check on how much agent-placed order volume merchants are actually seeing today.",
+   "tags": [
+    "accertify",
+    "agentic-checkout",
+    "metrics"
+   ]
+  },
+  {
+   "id": "digitaltransactions-amex-intent-intelligence-framework",
+   "title": "AmEx's Next Step for Agentic Commerce Is a Framework; Forter's Agentic Verification Move",
+   "url": "https://www.digitaltransactions.net/amexs-next-step-for-agentic-commerce-is-a-framework-forters-agentic-verification-move/",
+   "source": "Digital Transactions",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-10-13",
+   "added": "2026-10-19",
+   "summary": "American Express outlined a four-step design for capturing a shopper's approved purchase intent, proving it, binding an agent credential to it, and presenting that proof at authorization. A concrete sketch of how intent data could flow through card authorization for agent-initiated payments.",
+   "tags": [
+    "amex",
+    "agentic-commerce",
+    "authorization",
+    "protocols"
+   ]
+  },
+  {
+   "id": "forter-agentic-commerce-engine",
+   "title": "Forter Turns the AI Shopping Agent Surge Into a Secure Revenue Channel for Merchants",
+   "url": "https://prnewswire.com/news-releases/forter-turns-the-ai-shopping-agent-surge-into-a-secure-revenue-channel-for-merchants-302906333.html",
+   "source": "Forter (PR Newswire)",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-13",
+   "added": "2026-10-19",
+   "summary": "Forter released an Agentic Commerce Engine for verifying AI shopping agents and handling headless checkout, saying agent-placed orders on its network quadrupled since August while bots posing as assistants doubled. A view into how fraud vendors are productizing agent traffic ahead of the holiday peak.",
+   "tags": [
+    "agentic-commerce",
+    "bots",
+    "forter",
+    "holiday-peak"
+   ]
+  },
+  {
+   "id": "mastercard-agent-pay-trust-intelligence",
+   "title": "Mastercard Advances Agentic Commerce With New Trust and Intelligence Services",
+   "url": "https://investor.mastercard.com/investor-news/investor-news-details/2026/Mastercard-Advances-Agentic-Commerce-With-New-Trust-and-Intelligence-Services/default.aspx",
+   "source": "Mastercard",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-09-30",
+   "added": "2026-10-19",
+   "summary": "Mastercard is piloting a US score that estimates whether an AI agent initiated a purchase, the first piece of an intelligence layer for its Agent Pay framework, with Cloudflare and Skyfire helping on agent identity. A network-provided agent signal like this could become a standard input to transaction risk models.",
+   "tags": [
+    "mastercard",
+    "agent-pay",
+    "risk-signals"
+   ]
+  },
+  {
+   "id": "digitaltransactions-apple-pay-fee-class-action",
+   "title": "A Judge Rules an Apple Pay Fee Case Can Move Forward As a Class Action",
+   "url": "https://www.digitaltransactions.net/a-judge-rules-an-iphone-fee-case-can-move-forward-as-a-class-action/",
+   "source": "Digital Transactions",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-09-28",
+   "added": "2026-10-19",
+   "summary": "A federal judge certified a class of US card issuers suing Apple over Apple Pay fees and its exclusion of rival contactless wallets from the iPhone. If the case loosens Apple's control of NFC, merchants could see competing in-store wallets and different tap-to-pay economics.",
+   "tags": [
+    "apple-pay",
+    "wallets",
+    "litigation",
+    "contactless"
+   ]
+  },
+  {
+   "id": "doordash-anomaly-detection-fraud-trends",
+   "title": "Building an anomaly detection platform at DoorDash to catch fraud trends early",
+   "url": "https://careersatdoordash.com/blog/doordash-anomaly-detection-platform-to-catch-fraud-trends/",
+   "source": "DoorDash Engineering",
+   "kind": "blog",
+   "topic": "engineering",
+   "published": "2025-09-15",
+   "added": "2026-10-19",
+   "summary": "DoorDash's fraud team runs a daily batch job that aggregates fraud metrics across thousands of segment combinations, applies a windowed z-score test against a lagged baseline, and clusters flagged segments for analysts. A practical, easy-to-copy template for catching emerging fraud trends early.",
+   "tags": [
+    "anomaly-detection",
+    "fraud-analytics",
+    "batch-pipeline"
+   ]
+  },
+  {
+   "id": "grocerydive-ahold-delhaize-digital-outage",
+   "title": "The Friday Checkout: Ahold Delhaize's digital disaster is a customer retention nightmare",
+   "url": "https://www.grocerydive.com/news/the-friday-checkout-ahold-delhaizes-digital-disaster-is-a-customer-retent/833220/",
+   "source": "Grocery Dive",
+   "kind": "article",
+   "topic": "retail",
+   "published": "2026-10-16",
+   "added": "2026-10-18",
+   "summary": "A cybersecurity incident kept Ahold Delhaize's US grocery sites and apps down for a week, so shoppers could not log in or redeem loyalty rewards and online orders moved to third-party delivery apps. A sobering case study in how much customer trust rides on identity and account systems during an incident.",
+   "tags": [
+    "grocery",
+    "cybersecurity",
+    "outage",
+    "loyalty"
+   ]
+  },
+  {
+   "id": "pymnts-scams-22pct-fraud-dollars",
+   "title": "Scams Capture 22.4% of Fraud Dollars as Banks Adjust Defenses",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/scams-capture-22-4percent-of-fraud-dollars-as-banks-adjust-defenses/",
+   "source": "PYMNTS",
+   "kind": "report",
+   "topic": "fraud",
+   "published": "2026-10-16",
+   "added": "2026-10-18",
+   "summary": "A PYMNTS Intelligence survey of 90 US financial institutions finds scams nearly doubled their share of fraud losses year over year, while credential-based account takeover remains the largest single category. A good reminder that access checks alone miss authorized but manipulated activity.",
+   "tags": [
+    "scams",
+    "account-takeover",
+    "survey"
+   ]
+  },
+  {
+   "id": "visa-mc-settlement-court",
+   "title": "Visa, Mastercard urge court to approve swipe-fee settlement",
+   "url": "https://www.paymentsdive.com/news/visa-mastercard-urge-court-to-approve-fee-settlement/833241/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-10-16",
+   "added": "2026-10-18",
+   "summary": "A final-approval hearing is set for next month on the Visa and Mastercard swipe-fee settlement. It would let merchants decline some premium and commercial credit cards, a break from the long-standing honor-all-cards rule.",
+   "tags": [
+    "interchange",
+    "honor all cards",
+    "settlement"
+   ]
+  },
+  {
+   "id": "paymentsdive-visa-mastercard-payouts-631m",
+   "title": "Visa-Mastercard payouts top $631M",
+   "url": "https://www.paymentsdive.com/news/visa-mastercard-payouts-top-631m/832669/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-10-12",
+   "added": "2026-10-18",
+   "summary": "Close to 690,000 merchants have now been paid from the interchange damages settlement, with more than five billion dollars still in the fund. A hearing on the separate injunctive-relief deal, which Walmart and others oppose, is set for next month.",
+   "tags": [
+    "swipe-fees",
+    "interchange",
+    "litigation",
+    "settlement"
+   ]
+  },
+  {
+   "id": "epi-mastercard-europe-offline-payment-rules",
+   "title": "Mastercard to introduce offline payment rules across Europe",
+   "url": "https://www.electronicpaymentsinternational.com/news/mastercard-europe-offline-payment-rules/",
+   "source": "Electronic Payments International",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-10-09",
+   "added": "2026-10-18",
+   "summary": "After the 2025 Iberian blackout, Mastercard will require new European cards from February 2027 and new terminals from May 2027 to support offline approvals with chip-stored limits of up to 200 euros. A real-world example of designing card acceptance for network loss, and of the fraud tradeoffs of approving offline.",
+   "tags": [
+    "resilience",
+    "offline-payments",
+    "mastercard",
+    "pos"
+   ]
+  },
+  {
+   "id": "paymentsdive-agentic-payments-risk",
+   "title": "How agentic payments present risk",
+   "url": "https://www.paymentsdive.com/news/how-agentic-payments-artificial-intelligence-risk/832601/",
+   "source": "Payments Dive",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-10-09",
+   "added": "2026-10-18",
+   "summary": "This opinion piece argues that Regulation E, Regulation Z and network zero-liability policies leave it unclear who absorbs the loss when an AI agent exceeds what a consumer allowed, and proposes machine-readable records of an agent's authority. That gap will shape dispute volumes and liability for agent-placed orders.",
+   "tags": [
+    "agentic-commerce",
+    "liability",
+    "disputes",
+    "regulation"
+   ]
+  },
+  {
+   "id": "stripe-fine-tuning-llms-risk-assessment",
+   "title": "Fine-tuning LLMs for risk assessment",
+   "url": "https://stripe.dev/blog/training-llms-for-risk-assessment",
+   "source": "Stripe",
+   "kind": "blog",
+   "topic": "engineering",
+   "published": "2026-10-09",
+   "added": "2026-10-18",
+   "summary": "Stripe engineers fine-tuned a 4B open-weight model on text-serialized account records using only review labels, derived a risk score from label-token probabilities, and report sizable precision gains over prompting and over XGBoost on several risk tasks. A concrete recipe to weigh against classic gradient-boosted models.",
+   "tags": [
+    "llm",
+    "fraud-ml",
+    "fine-tuning",
+    "stripe"
+   ]
+  },
+  {
+   "id": "riskified-agent-identity-risk-intelligence",
+   "title": "Riskified Launches Agent Identity Risk Intelligence",
+   "url": "https://www.riskified.com/press/agent-identity-risk-intelligence/",
+   "source": "Riskified",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-08",
+   "added": "2026-10-18",
+   "summary": "Riskified is adding tooling that detects when an AI assistant is placing an order or contacting support, ties it back to a real consumer identity and returns a live risk score, with a merchant beta in December and broad release in 2027. Another sign that agent identity scoring is moving into mainstream fraud tools.",
+   "tags": [
+    "riskified",
+    "agentic-commerce",
+    "identity",
+    "refund-abuse"
+   ]
+  },
+  {
+   "id": "coinbase-owning-intelligence-fraud-agent",
+   "title": "Owning Intelligence Series, Part 1: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
+   "url": "https://www.coinbase.com/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent",
+   "source": "Coinbase",
+   "kind": "blog",
+   "topic": "engineering",
+   "published": "2026-10-06",
+   "added": "2026-10-18",
+   "summary": "Coinbase describes an LLM risk agent that sits after its existing ML model and rules for guest checkout, can only add blocks, and cut fraud meaningfully in a 50 percent traffic test. Replays later showed newer model versions catching less fraud than older ones, a strong argument for replay-based regression tests on every model upgrade.",
+   "tags": [
+    "llm",
+    "fraud-agent",
+    "model-evaluation",
+    "architecture"
+   ]
+  },
+  {
+   "id": "oct-2026-interchange-network-updates",
+   "title": "October 2026 interchange and network updates",
+   "url": "https://merchantcostconsulting.com/lower-credit-card-processing-fees/october-2026-interchange-network-updates/",
+   "source": "Merchant Cost Consulting",
+   "kind": "article",
+   "topic": "retail",
+   "published": "2026-10-02",
+   "added": "2026-10-18",
+   "summary": "A rundown of this month's card network changes, including Mastercard's higher decline service fee and Visa moving response code 57 into its never-approve reattempt program. Both matter for anyone maintaining authorization retry logic.",
+   "tags": [
+    "interchange",
+    "decline codes",
+    "retries"
+   ]
+  },
+  {
+   "id": "pulse-visa-ce3-multi-merchant-oct24",
+   "title": "Visa's Compelling Evidence 3.0 changes on 24 October: prior purchases can come from other merchants",
+   "url": "https://pulsecrm.com/blog/visa-compelling-evidence-3-multi-merchant-change-october-2026/",
+   "source": "Pulse",
+   "kind": "blog",
+   "topic": "fraud",
+   "published": "2026-09-24",
+   "added": "2026-10-18",
+   "summary": "From October 24, merchants fighting Visa 10.4 card-absent fraud disputes may cite a cardholder's earlier undisputed purchases at other merchants, matching tokens, and login IDs from agentic payment providers. Pre-arbitration evidence stays limited to data the acquirer itself processed, so dispute evidence pipelines may need updating.",
+   "tags": [
+    "chargebacks",
+    "visa",
+    "ce3.0",
+    "disputes"
+   ]
+  },
+  {
+   "id": "innovify-agentic-payments-stack",
+   "title": "The agentic payments stack in 2026: what Visa, Stripe and Mastercard shipped",
+   "url": "https://innovify.com/insights/agentic-payments-stack-2026-visa-stripe-mastercard",
+   "source": "Innovify",
+   "kind": "article",
+   "topic": "engineering",
+   "published": "2026-08-30",
+   "added": "2026-10-18",
+   "summary": "A builder's rundown of agent tokens, agent-to-agent fraud checks and scoped credentials from the card networks and Stripe. The common thread is that no agent gets unrestricted card access, which shapes how agent-initiated orders will be scored.",
+   "tags": [
+    "agentic commerce",
+    "tokenization",
+    "Visa",
+    "Mastercard"
+   ]
+  },
+  {
+   "id": "walmart-tap-to-pay",
+   "title": "Walmart and Sam's Club add Tap to Pay at checkout",
+   "url": "https://www.news9.com/business/walmart-sams-club-add-tap-to-pay-option-at-checkout",
+   "source": "News 9",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-08-21",
+   "added": "2026-10-18",
+   "summary": "Walmart is rolling out contactless payments to all US stores and clubs by the end of 2026 and to fuel stations by mid-2027. A notable shift for one of the last big holdouts on mobile wallets.",
+   "tags": [
+    "Walmart",
+    "contactless",
+    "grocery"
+   ]
+  },
+  {
+   "id": "finix-retail-payment-trends-2026",
+   "title": "Retail payment trends in 2026: what's shaping checkout",
+   "url": "https://finix.com/resources/blogs/retail-payment-trends",
+   "source": "Finix",
+   "kind": "article",
+   "topic": "retail",
+   "published": "2026-08-12",
+   "added": "2026-10-18",
+   "summary": "Seven trends shaping retail checkout this year: agentic commerce, account-to-account payments, wallets, surcharging and dual pricing, and network tokenization. A quick orientation piece.",
+   "tags": [
+    "retail",
+    "A2A",
+    "wallets"
+   ]
+  },
+  {
+   "id": "signifyd-state-of-fraud-2026",
+   "title": "Signifyd's 2026 State of Fraud Report: account takeover, card testing and BOPIS fraud all jump",
+   "url": "https://www.signifyd.com/news-releases/state-of-fraud-report/",
+   "source": "Signifyd",
+   "kind": "report",
+   "topic": "fraud",
+   "published": "2026-08-06",
+   "added": "2026-10-18",
+   "summary": "Across thousands of merchants, fraud pressure rose about a third year over year in early 2026, with account takeover up 78% and card testing up 175%. Buy-online-pick-up-in-store fraud rose 65%, putting store pickup and login protection in focus.",
+   "tags": [
+    "account takeover",
+    "card testing",
+    "BOPIS",
+    "ecommerce"
+   ]
+  },
+  {
+   "id": "mastercard-smmp-scam-program",
+   "title": "Mastercard bolsters scam defense with new acquirer monitoring program",
+   "url": "https://www.paymentsdive.com/news/mastercard-bolsters-scam-defense/826259/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-07-27",
+   "added": "2026-10-18",
+   "summary": "Mastercard now requires acquirers to act within three days on flagged scam activity at their merchants, following Visa's VAMP program. Both networks are pushing more fraud responsibility onto merchants and their processors.",
+   "tags": [
+    "Mastercard",
+    "Visa VAMP",
+    "scams",
+    "acquirers"
+   ]
+  },
+  {
+   "id": "payments-dive-friendly-fraud-oped",
+   "title": "Fraud fight can't wait on government",
+   "url": "https://www.paymentsdive.com/news/merchants-must-fight-fraud-on-the-frontlines-retail-chargebacks/824949/",
+   "source": "Payments Dive",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-07-10",
+   "added": "2026-10-18",
+   "summary": "A merchant consultant argues retailers should tighten dispute management now rather than wait on the Fed, FTC and Treasury fraud roundtable. Friendly fraud and chargebacks are the main cost he highlights.",
+   "tags": [
+    "chargebacks",
+    "friendly fraud",
+    "disputes"
+   ]
+  },
+  {
+   "id": "amex-cell-based-architecture",
+   "title": "Cell-Based Architecture for Resilient Payment Systems",
+   "url": "https://americanexpress.io/posts/architecture/",
+   "source": "American Express Technology",
+   "kind": "blog",
+   "topic": "engineering",
+   "published": "2026-06-11",
+   "added": "2026-10-18",
+   "summary": "An American Express distinguished engineer explains splitting a payment platform into isolated cells so a bad deploy or failure only affects a slice of traffic. A clear walkthrough of blast-radius thinking for any high-availability payment service.",
+   "tags": [
+    "resilience",
+    "architecture",
+    "cells"
+   ]
+  },
+  {
+   "id": "recorded-future-payment-fraud-2026",
+   "title": "Recorded Future annual payment fraud report: AI raises the scale of attacks",
+   "url": "https://www.mastercard.com/in/en/news-and-trends/stories/2026/recorded-future-annual-payment-fraud-report.html",
+   "source": "Mastercard / Recorded Future",
+   "kind": "report",
+   "topic": "fraud",
+   "published": "2026-03-02",
+   "added": "2026-10-18",
+   "summary": "Mastercard's threat-intelligence unit reports scammers using AI marketing tools to target victims the way a legitimate business would. Its advice is to fuse cyber and fraud intelligence and move from reactive to predictive defenses.",
+   "tags": [
+    "threat intelligence",
+    "AI fraud",
+    "Mastercard"
+   ]
+  },
+  {
+   "id": "kc-fed-debit-card-fraud",
+   "title": "Debit card fraud losses rise, especially card-not-present",
+   "url": "https://www.paymentsdive.com/news/debit-card-fraud-losses-rise/813226/",
+   "source": "Payments Dive",
+   "kind": "research",
+   "topic": "fraud",
+   "published": "2026-02-26",
+   "added": "2026-10-18",
+   "summary": "A Kansas City Fed analysis of 2021 to 2023 data shows card-not-present debit fraud kept climbing while card-present fraud rates diverged between dual- and single-message networks. A useful baseline for online debit risk.",
+   "tags": [
+    "debit",
+    "CNP",
+    "Federal Reserve"
+   ]
+  },
+  {
+   "id": "stripe-how-we-built-radar",
+   "title": "How we built it: Stripe Radar",
+   "url": "https://stripe.dev/blog/how-we-built-it-stripe-radar",
+   "source": "Stripe Dev Blog",
+   "kind": "blog",
+   "topic": "engineering",
+   "published": "2023-03-29",
+   "added": "2026-10-18",
+   "summary": "An older but still useful look at the design decisions behind Stripe's ML fraud system: features, model choices and lessons learned. Good background for anyone building a fraud model platform.",
+   "tags": [
+    "machine learning",
+    "fraud models",
+    "Stripe"
+   ]
+  },
+  {
+   "id": "softjourn-payment-architecture-2026",
+   "title": "Payment processing architecture in 2026: what to know",
+   "url": "https://softjourn.com/insights/payment-processing-architecture-in-2026-what-to-know",
+   "source": "Softjourn",
+   "kind": "article",
+   "topic": "engineering",
+   "published": "",
+   "added": "2026-10-18",
+   "summary": "Covers five architecture decisions for modern payment platforms, including treating network tokenization as a design choice rather than a compliance task, and planning for agent-initiated checkout. Vendor-written, but a decent checklist.",
+   "tags": [
+    "network tokens",
+    "architecture"
+   ]
+  }
+ ]
+}

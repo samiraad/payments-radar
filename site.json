@@ -1,0 +1,71 @@
+{
+ "site": {
+  "title": "Payments Radar",
+  "tagline": "A daily sweep of what matters in payment fraud, payment engineering and retail commerce."
+ },
+ "include_linkedin": true,
+ "batch": {
+  "lookback_days": 7
+ },
+ "topics": [
+  {
+   "id": "fraud",
+   "label": "Fraud & risk",
+   "color": "#C2562B",
+   "description": "Account takeover, card testing, bots, identity verification, scams, chargebacks and disputes, network fraud programs, and fraud ML.",
+   "sources": [
+    "Signifyd",
+    "Sift",
+    "Riskified",
+    "Accertify",
+    "Forter",
+    "LexisNexis Risk",
+    "Recorded Future",
+    "Visa and Mastercard threat reports",
+    "Federal Reserve studies"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "engineering",
+   "label": "Payment engineering",
+   "color": "#4C5BD4",
+   "description": "Payment architecture, resilience, tokenization, authorization and retries, real-time payments, agentic-commerce protocols, and ML platforms for risk.",
+   "sources": [
+    "Stripe",
+    "Adyen",
+    "American Express Technology",
+    "PayPal",
+    "Shopify",
+    "Block",
+    "Uber",
+    "DoorDash",
+    "Coinbase",
+    "Netflix"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "retail",
+   "label": "Retail & commerce",
+   "color": "#2F8A5F",
+   "description": "Grocery and big-box checkout, wallets and contactless, interchange and network rule changes, swipe-fee litigation, store pickup and self-checkout.",
+   "sources": [
+    "Payments Dive",
+    "PYMNTS",
+    "Digital Transactions",
+    "PaymentsJournal",
+    "Grocery Dive",
+    "Supermarket News",
+    "Retail Dive"
+   ],
+   "enabled": true
+  }
+ ],
+ "exclude": [
+  "Pure consumer banking news",
+  "Crypto and stablecoin price speculation",
+  "B2B treasury and accounts-payable fraud",
+  "Generic listicles"
+ ]
+}
