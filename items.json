@@ -1,6 +1,239 @@
 {
- "updated": "2026-10-20",
+ "updated": "2026-10-22",
  "items": [
+  {
+   "id": "streetinsider-broadcom-arcot-scam-defense",
+   "title": "Broadcom launches Arcot Scam Defense for payment fraud detection",
+   "url": "https://www.streetinsider.com/Corporate+News/Broadcom+launches+Arcot+Scam+Defense+for+payment+fraud+detection/27214154.html",
+   "source": "StreetInsider",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-21",
+   "added": "2026-10-22",
+   "summary": "Broadcom added a capability to its Arcot 3-D Secure platform that scores card-not-present authentications for signs of a scam in progress, such as device location mismatches, slow passcode entry and an active phone call on the authenticating device. It highlights that a passed step-up challenge is no longer proof of a legitimate purchase when the real cardholder is being coached, pushing authentication teams to treat session context as a fraud signal.",
+   "tags": [
+    "scams",
+    "3-d secure",
+    "authentication",
+    "card-not-present"
+   ]
+  },
+  {
+   "id": "pymnts-booking-com-probe-travel-fraud",
+   "title": "Booking.com Probe Exposes Travel Fraud Beyond Checkout",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/booking-com-probe-exposes-travel-fraud-beyond-checkout/",
+   "source": "PYMNTS",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-21",
+   "added": "2026-10-22",
+   "summary": "The European Commission is examining how scammers reach travelers through a large booking platform, including compromised hotel partner accounts and messaging channels used to push guests toward fake payment pages. The case shows how account takeover on the merchant or partner side can turn genuine order data into convincing scam lures, so marketplace operators need to protect partner logins and outbound payment requests, not only checkout.",
+   "tags": [
+    "account takeover",
+    "phishing",
+    "marketplaces",
+    "scams"
+   ]
+  },
+  {
+   "id": "stripe-ai-agent-move-money-stay-in-control",
+   "title": "Your AI agent can move money in Stripe - here's how to stay in control",
+   "url": "https://stripe.dev/blog/your-ai-agent-can-move-money-in-stripe",
+   "source": "Stripe",
+   "kind": "blog",
+   "topic": "engineering",
+   "published": "2026-10-21",
+   "added": "2026-10-22",
+   "summary": "Stripe walks through the guardrails for letting AI agents act on a payments account, from user confirmation of sensitive writes over MCP to agent-tagged API keys whose refunds and payouts can be routed to human approvers via webhooks. It is a concrete pattern for anyone exposing money-moving APIs to autonomous software: give agents distinct identities, gate high-risk actions behind review, and make pending approvals observable.",
+   "tags": [
+    "agentic commerce",
+    "api security",
+    "approvals",
+    "mcp"
+   ]
+  },
+  {
+   "id": "paymentsdive-new-payment-rails-catch-on-slowly",
+   "title": "New payment rails catch on, slowly",
+   "url": "https://www.paymentsdive.com/news/new-payment-rails-stablecoin-instant/833578/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-10-21",
+   "added": "2026-10-22",
+   "summary": "Speakers at Money20/20 described slow uptake of instant payments and stablecoins, citing legacy systems, skepticism and fatigue with adding yet another rail, while firms mix ACH, instant transfers, stablecoins and even checks depending on cost and recipient. For payment platform builders this argues for multi-rail orchestration and routing logic rather than betting on one new rail replacing the rest.",
+   "tags": [
+    "real-time payments",
+    "stablecoins",
+    "orchestration"
+   ]
+  },
+  {
+   "id": "paymentsdive-fiserv-ai-retail-rethink",
+   "title": "Fiserv taps AI for retail rethink",
+   "url": "https://www.paymentsdive.com/news/fiserv-taps-ai-retail-rethink-payments/833581/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-10-21",
+   "added": "2026-10-22",
+   "summary": "A Fiserv executive says merchants are deciding whether legacy commerce stacks can absorb AI shopping agents or whether new stacks are needed, and expects fully autonomous agent purchases to require extra records proving user intent and payment details. That points to new data fields and evidence trails flowing between merchants, acquirers and networks, which will shape authorization payloads and dispute handling for agent-initiated orders.",
+   "tags": [
+    "agentic commerce",
+    "authorization",
+    "liability"
+   ]
+  },
+  {
+   "id": "paymentsdive-visa-changes-fees-canada",
+   "title": "Visa changes fees in Canada",
+   "url": "https://paymentsdive.com/news/visa-mastercard-card-fee-changes-fees-canada/833599/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-10-21",
+   "added": "2026-10-22",
+   "summary": "Visa is cutting interchange for Canadian small merchants below a sales threshold starting October 24 and will add a per-transaction processor fee on domestic Canadian transactions from April 2027, while Mastercard has not widened its small-business program. Simultaneous rate cuts and new network fees show why acceptance cost models and pricing engines need regular updates as network rules shift by market.",
+   "tags": [
+    "interchange",
+    "network fees",
+    "canada"
+   ]
+  },
+  {
+   "id": "pymnts-banks-fraud-tech-stacks-integration",
+   "title": "Banks' Growing Fraud Tech Stacks Create an Integration Challenge",
+   "url": "https://www.pymnts.com/cybersecurity/2026/banks-growing-fraud-tech-stacks-create-integration-challenge/",
+   "source": "PYMNTS",
+   "kind": "report",
+   "topic": "fraud",
+   "published": "2026-10-20",
+   "added": "2026-10-22",
+   "summary": "Survey findings indicate financial institutions have piled up many fraud tools and now struggle to make them act as one defense, with system complexity cited as the main barrier and most in-house builders still mixing in third-party products. Because scams increasingly arrive through legitimate logins, the value now lies in joining signals across the whole customer and payment journey, which is an architecture and data-plumbing problem as much as a modeling one.",
+   "tags": [
+    "fraud ml",
+    "integration",
+    "signals",
+    "banks"
+   ]
+  },
+  {
+   "id": "reuters-britain-break-apple-grip-contactless",
+   "title": "Britain seeks to break Apple's grip on contactless payments",
+   "url": "https://investing.com/news/stock-market-news/britain-seeks-to-break-apples-grip-on-contactless-payments-4959380",
+   "source": "Reuters",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-10-20",
+   "added": "2026-10-22",
+   "summary": "The UK competition regulator proposed lower access fees and host card emulation access to the iPhone NFC chip so rival wallets can compete with the incumbent tap-to-pay option, with consultation open until mid-November. If adopted, merchants and issuers could see more wallet choices at the terminal in the UK, adding new token and wallet types that acceptance and risk systems must recognize.",
+   "tags": [
+    "wallets",
+    "contactless",
+    "nfc",
+    "regulation"
+   ]
+  },
+  {
+   "id": "cybersecuritynews-open-banking-credential-testing",
+   "title": "Hackers Exploit Open Banking Services to Test Stolen Credentials Without Paying a Cent",
+   "url": "https://cybersecuritynews.com/hackers-exploit-open-banking-services",
+   "source": "Cyber Security News",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-20",
+   "added": "2026-10-21",
+   "summary": "Researchers at Group-IB found a scam-as-a-service crew abusing a legitimate spend-management app's account-linking flow to check whether stolen bank and card credentials were live, leaving the platform to pay the open-banking verification bill, and then using the same app's notifications to send marketplace-themed phishing. It shows that onboarding and account-linking steps can become a free validation oracle for fraudsters, so new-account behavior, first instrument links and early outbound messaging deserve the same velocity controls as checkout.",
+   "tags": [
+    "card testing",
+    "open banking",
+    "phishing",
+    "onboarding"
+   ]
+  },
+  {
+   "id": "pymnts-transunion-synthetic-fraud-credit-washing-scores",
+   "title": "TransUnion Debuts New Scoring Capability to Combat Fraud",
+   "url": "https://www.pymnts.com/cybersecurity/identity-theft/2026/transunion-debuts-new-scoring-capability-to-combat-fraud/",
+   "source": "PYMNTS",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-20",
+   "added": "2026-10-21",
+   "summary": "TransUnion introduced scores aimed at synthetic identities and credit washing that lenders can use directly in adverse-action decisions, with reason codes they can give to declined applicants. Explainable identity-risk signals that are usable in regulated decisions point toward fraud models that must justify outcomes, not just rank risk, which matters for anyone designing identity verification and account-opening controls.",
+   "tags": [
+    "synthetic identity",
+    "identity verification",
+    "scoring"
+   ]
+  },
+  {
+   "id": "pymnts-google-financial-ads-verification-us-canada",
+   "title": "Google Mandates Further Verification for US and Canada Financial Ads",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/google-mandates-further-verification-for-us-and-canada-financial-ads/",
+   "source": "PYMNTS",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-20",
+   "added": "2026-10-21",
+   "summary": "Google will extend its financial services advertiser verification program to the US and Canada in early 2027, requiring advertisers of certain financial products to prove they are authorized by regulators or recognized registries. Fake financial ads are a common entry point for investment and impersonation scams, so tighter controls upstream may shift where scam traffic originates and how payment providers see it arrive.",
+   "tags": [
+    "scams",
+    "advertising",
+    "verification"
+   ]
+  },
+  {
+   "id": "businesswire-matera-payfinia-solana-x9-150-qr-demo",
+   "title": "Matera, Payfinia and Solana Foundation Demonstrate New U.S. QR Code Payment Standard at Money20/20",
+   "url": "https://www.businesswire.com/news/home/20261019530143/en/Matera-Payfinia-and-Solana-Foundation-Demonstrate-New-U.S.-QR-Code-Payment-Standard-at-Money2020",
+   "source": "Business Wire",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-10-19",
+   "added": "2026-10-21",
+   "summary": "A group of vendors gave the first public live demo of the ANSI X9.150 QR standard, where a single invoice code can be settled over FedNow, RTP or a stablecoin rail and the invoice updates automatically, with open-source reference software released alongside. A shared QR payload across rails could simplify how merchants and banks integrate instant payments, though the demo is not a product and adoption is still at the pilot stage.",
+   "tags": [
+    "real-time payments",
+    "qr codes",
+    "standards",
+    "fednow"
+   ]
+  },
+  {
+   "id": "massmarketretailers-swipe-fees-halloween-costs",
+   "title": "Swipe fees add nearly $320 million to consumers' Halloween costs, merchants group says",
+   "url": "https://massmarketretailers.com/swipe-fees-add-nearly-320-million-to-consumers-halloween-costs-merchants-group-says/",
+   "source": "Mass Market Retailers",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-10-19",
+   "added": "2026-10-21",
+   "summary": "A merchant coalition estimates that card acceptance fees will add roughly 319 million dollars to projected Halloween spending and uses the figure to push Congress toward the Credit Card Competition Act and its second-network routing mandate. The seasonal messaging signals continued legislative pressure on interchange and routing alongside the pending settlement fight, which could eventually reshape debit and credit routing logic at checkout.",
+   "tags": [
+    "swipe fees",
+    "interchange",
+    "legislation",
+    "routing"
+   ]
+  },
+  {
+   "id": "uber-zero-sum-by-design-10-years-payments-platform",
+   "title": "Zero-Sum by Design: 10 Years of Uber's Payments Platform",
+   "url": "https://www.uber.com/us/en/blog/ubers-payments-platform/",
+   "source": "Uber Engineering",
+   "kind": "blog",
+   "topic": "engineering",
+   "published": "2026-08-06",
+   "added": "2026-10-21",
+   "summary": "Uber's engineers look back on a decade of their payments platform, built on immutable money-movement records, double-entry bookkeeping that must always net to zero, an asynchronous Kafka pipeline and a workflow engine for in-session payments. It is a useful reference for anyone designing ledgers and payment orchestration at scale, especially on how generic abstractions for products and instruments kept the core stable as new payment methods were added.",
+   "tags": [
+    "ledger",
+    "architecture",
+    "double-entry",
+    "scaling"
+   ]
+  },
   {
    "id": "pymnts-stressed-grocery-shoppers-digital-wallets",
    "title": "21% of Financially Stressed Grocery Shoppers Use Digital Wallets",
