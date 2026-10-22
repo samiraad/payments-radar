@@ -2,6 +2,22 @@
  "updated": "2026-10-22",
  "items": [
   {
+   "id": "paymentsdive-paze-sets-big-targets-after-revamp",
+   "title": "Paze sets big targets after revamp",
+   "url": "https://www.paymentsdive.com/news/paze-sets-big-targets-after-revamp/833721/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-10-22",
+   "added": "2026-10-22",
+   "summary": "The bank-consortium wallet Paze is aiming to win over the hundred largest U.S. merchants within three years after its relaunch, citing strong transaction growth and roughly 220 million enrolled cards. A bank-backed checkout button competing with phone and processor wallets could shift how merchants weigh wallet acceptance, tokenized credentials and checkout-page real estate.",
+   "tags": [
+    "wallets",
+    "checkout",
+    "paze"
+   ]
+  },
+  {
    "id": "streetinsider-broadcom-arcot-scam-defense",
    "title": "Broadcom launches Arcot Scam Defense for payment fraud detection",
    "url": "https://www.streetinsider.com/Corporate+News/Broadcom+launches+Arcot+Scam+Defense+for+payment+fraud+detection/27214154.html",
@@ -101,6 +117,22 @@
    ]
   },
   {
+   "id": "paymentsjournal-governing-ai-in-fraud-and-disputes",
+   "title": "Automation to Accountability: Governing AI in Fraud and Disputes",
+   "url": "https://www.paymentsjournal.com/automation-to-accountability-governing-ai-in-fraud-and-disputes/",
+   "source": "PaymentsJournal",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-10-21",
+   "added": "2026-10-22",
+   "summary": "Drawn from an industry webinar, this piece looks at how institutions should oversee AI used in fraud investigations and dispute handling as new state rules raise expectations for transparency and human oversight. It is a practical reminder that dispute and fraud models need continuous drift monitoring, documented decision logic and override tracking, not a one-time sign-off.",
+   "tags": [
+    "disputes",
+    "ai governance",
+    "model risk"
+   ]
+  },
+  {
    "id": "pymnts-banks-fraud-tech-stacks-integration",
    "title": "Banks' Growing Fraud Tech Stacks Create an Integration Challenge",
    "url": "https://www.pymnts.com/cybersecurity/2026/banks-growing-fraud-tech-stacks-create-integration-challenge/",
@@ -131,6 +163,70 @@
     "wallets",
     "contactless",
     "nfc",
+    "regulation"
+   ]
+  },
+  {
+   "id": "digitaltransactions-ai-democratizing-fraud-rates-perpetrators",
+   "title": "AI's Democratizing Bent Is Quickly Affecting Fraud Rates and Perpetrators",
+   "url": "https://www.digitaltransactions.net/ais-democratizing-bent-is-quickly-affecting-fraud-rates-and-perpetrators/",
+   "source": "Digital Transactions",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-20",
+   "added": "2026-10-22",
+   "summary": "Coverage of a Socure consumer survey finds a meaningful share of respondents admit using AI to commit some form of fraud, most often first-party abuse, and that organized rings lean on AI more than individuals. Lowering the skill barrier means risk teams should expect more first-party and synthetic-identity attempts from people with no prior fraud history, which weakens signals built on past behavior.",
+   "tags": [
+    "first-party fraud",
+    "synthetic identity",
+    "ai"
+   ]
+  },
+  {
+   "id": "digitaltransactions-nacha-reports-more-faster-payments-gains",
+   "title": "Nacha Reports More Faster Payments Gains",
+   "url": "https://www.digitaltransactions.net/nacha-reports-more-faster-payments-gains/",
+   "source": "Digital Transactions",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-10-20",
+   "added": "2026-10-22",
+   "summary": "Third-quarter ACH figures show overall network volume growing modestly while same-day ACH volume jumped by more than a third and passed a trillion dollars in value for the quarter. Faster settlement on existing rails compresses the window for catching bad payments and pushes teams to rethink return handling, risk holds and reconciliation timing.",
+   "tags": [
+    "ach",
+    "same-day",
+    "real-time payments"
+   ]
+  },
+  {
+   "id": "paymentsjournal-agentic-commerce-still-hype-ahead-of-reality",
+   "title": "Agentic Commerce Is Still Hype Ahead of Reality",
+   "url": "https://www.paymentsjournal.com/agentic-commerce-is-still-hype-ahead-of-reality/",
+   "source": "PaymentsJournal",
+   "kind": "article",
+   "topic": "engineering",
+   "published": "2026-10-20",
+   "added": "2026-10-22",
+   "summary": "An analyst view argues that AI-agent shopping is still in its infrastructure phase and will account for only a sliver of transaction value even by 2030, with discovery changing faster than payment flows. For builders, it suggests prioritizing agent identification and authorization standards steadily rather than rushing wholesale checkout rewrites.",
+   "tags": [
+    "agentic commerce",
+    "ai agents",
+    "strategy"
+   ]
+  },
+  {
+   "id": "paymentsdive-utah-forms-digital-id-consortium",
+   "title": "Utah forms digital ID consortium",
+   "url": "https://www.paymentsdive.com/news/utah-forms-digital-id-consortium/833351/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-19",
+   "added": "2026-10-22",
+   "summary": "Utah announced a multi-state group to set shared governance principles for state-issued digital IDs built around user control of identity data, with several more states expected to adopt similar frameworks. As mobile driver licenses spread, they could become a stronger verification input for onboarding and account recovery, provided standards for sharing and consent settle.",
+   "tags": [
+    "digital id",
+    "identity verification",
     "regulation"
    ]
   },
