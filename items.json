@@ -1,6 +1,119 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "items": [
+  {
+   "id": "paymentsdive-treasury-270m-suspicious-financial-aid",
+   "title": "Treasury tallies $270M in suspicious financial aid transactions",
+   "url": "https://www.paymentsdive.com/news/treasury-suspicious-payments-student-financial-aid-fraud/833736/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-22",
+   "added": "2026-10-23",
+   "summary": "FinCEN says bank suspicious activity reports filed since its July alert surfaced about 270 million dollars in activity possibly tied to federal student aid fraud, built on stolen or synthetic identities posing as enrolled students and on paid straw applicants. Synthetic and borrowed identities that pass enrollment checks also pass account opening, so onboarding teams should watch for clusters of new accounts receiving government disbursements and moving the money out quickly.",
+   "tags": [
+    "synthetic identity",
+    "sar",
+    "government payments"
+   ]
+  },
+  {
+   "id": "aba-studies-gauge-fraud-costs-banks",
+   "title": "Studies gauge fraud costs for banks, financial services",
+   "url": "https://bankingjournal.aba.com/2026/10/studies-gauge-fraud-costs-for-banks-financial-services/",
+   "source": "ABA Banking Journal",
+   "kind": "report",
+   "topic": "fraud",
+   "published": "2026-10-22",
+   "added": "2026-10-23",
+   "summary": "Two new studies put numbers on fraud economics: LexisNexis Risk Solutions estimates U.S. financial firms now bear about 5.47 dollars in total cost per dollar lost, up from 4 in 2021, while a PYMNTS study finds institutions spend over 2 dollars on prevention per dollar that still slips through, with websites and apps driving most losses. The multiplier figures are useful for anyone building a business case for fraud tooling, since investigation, recovery and operational costs dwarf the direct loss line most dashboards track.",
+   "tags": [
+    "cost of fraud",
+    "digital channels",
+    "benchmarks"
+   ]
+  },
+  {
+   "id": "pymnts-ftc-investment-scams-seniors-losses",
+   "title": "FTC Data Shows Investment Scams Fuel Fivefold Surge in Seniors' Fraud Losses",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/ftc-data-shows-investment-scams-fuel-fivefold-surge-in-seniors-fraud-losses/",
+   "source": "PYMNTS",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-22",
+   "added": "2026-10-23",
+   "summary": "FTC figures show reported losses by people aged 60 and over climbed roughly fivefold between 2020 and 2025 to about 3 billion dollars, driven largely by individual losses above 100,000 dollars from investment, romance and impersonation schemes. Large authorized transfers by long-tenured customers rarely trip classic fraud rules, which argues for scam-specific signals such as sudden large first-time payees and coached-session indicators.",
+   "tags": [
+    "scams",
+    "elder fraud",
+    "authorized fraud"
+   ]
+  },
+  {
+   "id": "insideretail-comcom-caps-commercial-interchange",
+   "title": "ComCom caps interchange fees, promises $40 million savings",
+   "url": "https://insideretail.co.nz/2026/10/22/comcom-caps-interchange-fees-promises-40-million-savings",
+   "source": "Inside Retail New Zealand",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-10-22",
+   "added": "2026-10-23",
+   "summary": "New Zealand's competition regulator will cap interchange on Visa and Mastercard commercial credit card transactions from April 2027, estimating merchant savings of about 40 million dollars a year on top of earlier caps on consumer cards. Regulators are increasingly targeting the premium and commercial card tiers that carry outsized fees, so acceptance cost models and surcharging logic need to track card-category rules market by market.",
+   "tags": [
+    "interchange",
+    "regulation",
+    "new zealand"
+   ]
+  },
+  {
+   "id": "finovate-checkout-com-in-person-payments",
+   "title": "Checkout.com Expands into In-Person Payments",
+   "url": "https://finovate.com/checkout-com-expands-into-in-person-payments",
+   "source": "Finovate",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-10-21",
+   "added": "2026-10-23",
+   "summary": "Long an online-only acquirer, Checkout.com is adding in-store acceptance by pairing its acquiring stack with terminals and point-of-sale software from Mollie, launching first in the UK and EEA with the U.S. to follow. More online-native processors moving into physical retail strengthens the push toward unified commerce, where one token vault, risk view and reporting stack covers both channels.",
+   "tags": [
+    "unified commerce",
+    "point of sale",
+    "acquiring"
+   ]
+  },
+  {
+   "id": "shopify-securing-your-app-together",
+   "title": "Securing your app, together",
+   "url": "https://community.shopify.dev/t/securing-your-app-together/38752",
+   "source": "Shopify",
+   "kind": "blog",
+   "topic": "engineering",
+   "published": "2026-10-20",
+   "added": "2026-10-23",
+   "summary": "Following a wave of compromised third-party apps that redirected shoppers to look-alike checkout pages, Shopify asked app developers to scan for unauthenticated routes, adopt expiring tokens, sanitize all rendered data and lock down accounts, and previewed tighter storefront script limits plus IP-restricted API keys. It is a reminder that the checkout supply chain extends to every script and configuration endpoint a merchant installs, so payment page integrity monitoring and least-privilege app access matter as much as the processor integration.",
+   "tags": [
+    "checkout security",
+    "supply chain",
+    "skimming",
+    "apps"
+   ]
+  },
+  {
+   "id": "mastercard-agent-pay-for-machines-in-action",
+   "title": "What happens when AI agents start paying each other? Watch Mastercard Agent Pay for Machines in action",
+   "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/october/Mastercard-Agent-Pay-for-Machines-in-action.html",
+   "source": "Mastercard",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-10-20",
+   "added": "2026-10-23",
+   "summary": "Mastercard demonstrated agents buying digital services from each other using the x402 pattern, where a service answers with a payment-required response and the agent signs an off-chain voucher within a preset budget that can be batched and settled later in fiat or stablecoins, and opened early access to its APIs and sandbox. Machine-to-machine micropayments change the shape of authorization and risk, shifting controls toward per-agent spending mandates, voucher verification and aggregated settlement instead of one card authorization per purchase.",
+   "tags": [
+    "agentic commerce",
+    "x402",
+    "micropayments"
+   ]
+  },
   {
    "id": "paymentsdive-paze-sets-big-targets-after-revamp",
    "title": "Paze sets big targets after revamp",
