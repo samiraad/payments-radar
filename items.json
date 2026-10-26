@@ -1,6 +1,140 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-26",
  "items": [
+  {
+   "id": "pymnts-57pct-large-firms-bot-agent-incidents",
+   "title": "57% of Large Firms Report Bot or Agent Incidents or Losses",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/57percent-of-large-firms-report-bot-or-agent-incidents-or-losses/",
+   "source": "PYMNTS",
+   "kind": "research",
+   "topic": "fraud",
+   "published": "2026-10-25",
+   "added": "2026-10-26",
+   "summary": "A PYMNTS Intelligence survey of 350 fraud, risk and compliance leaders finds that larger companies are far more likely to report incidents or losses tied to bots and automated agents, and also see somewhat higher false-positive rates. It proposes a layered know-your-agent approach that verifies who an agent acts for and what it is permitted to spend, a useful framing for anyone designing controls for automated or agent-initiated traffic.",
+   "tags": [
+    "bots",
+    "ai agents",
+    "know your agent",
+    "false positives"
+   ]
+  },
+  {
+   "id": "paymentsdive-shopping-is-muses-top-task-meta",
+   "title": "Shopping is Muse's top task: Meta",
+   "url": "https://www.paymentsdive.com/news/shopping-is-muses-top-task-meta/833817/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-10-23",
+   "added": "2026-10-26",
+   "summary": "Meta reported that shopping is the leading use of its Muse personal AI agent, with purchase volume high enough that its payments partner had to raise credit limits, even as some large banks move to block agent access to customer accounts. It offers an early real-world signal of agent-initiated payment volume, relevant to teams sizing capacity, limits and risk controls for agentic checkout flows.",
+   "tags": [
+    "agentic commerce",
+    "ai agents",
+    "checkout"
+   ]
+  },
+  {
+   "id": "paymentsjournal-sams-club-affirm-exclusive-bnpl",
+   "title": "Sam's Club Taps Affirm as Exclusive BNPL Provider",
+   "url": "https://www.paymentsjournal.com/sams-club-taps-affirm-as-exclusive-bnpl-provider/",
+   "source": "PaymentsJournal",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-10-23",
+   "added": "2026-10-26",
+   "summary": "Affirm signed a multi-year deal to be the sole buy now, pay later option at Sam's Club, starting online within weeks and expanding to stores in early 2027. The move shows warehouse and big-box retailers bringing installment payments into the physical checkout, which affects point-of-sale integration, tender mix and fraud controls for financed purchases.",
+   "tags": [
+    "bnpl",
+    "big-box",
+    "checkout",
+    "warehouse clubs"
+   ]
+  },
+  {
+   "id": "transunion-fraud-continuous-trust-existing-customers",
+   "title": "81% of Suspected Digital Fraud Attacks Target Existing Customer Relationships, TransUnion Finds",
+   "url": "https://www.globenewswire.com/news-release/2026/10/22/3386320/0/en/81-of-suspected-digital-fraud-attacks-target-existing-customer-relationships-transunion-finds.html",
+   "source": "TransUnion",
+   "kind": "report",
+   "topic": "fraud",
+   "published": "2026-10-22",
+   "added": "2026-10-26",
+   "summary": "A new TransUnion study finds that most suspected digital fraud in the first half of 2026 happened inside established customer relationships rather than at onboarding, with scams and authorized fraud named as a top loss driver and AI accelerating attack volume. For risk teams, it reinforces the case for continuous, post-login risk scoring and scam-aware controls instead of concentrating defenses at account opening.",
+   "tags": [
+    "account takeover",
+    "scams",
+    "synthetic identity",
+    "report"
+   ]
+  },
+  {
+   "id": "paymentsjournal-unauthorized-ai-agents-bank-accounts",
+   "title": "Unauthorized AI Agents Have Accessed Bank Accounts at Top U.S. Banks",
+   "url": "https://www.paymentsjournal.com/unauthorized-ai-agents-have-accessed-bank-accounts-at-top-u-s-banks/",
+   "source": "PaymentsJournal",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-22",
+   "added": "2026-10-26",
+   "summary": "Large U.S. banks have detected outside AI agents operating inside customer accounts, often using credentials customers handed over, and some have cut off agent access entirely while others weigh read-only modes. The episode shows how credential-sharing agents blur the line between legitimate automation and account takeover, pushing risk teams toward explicit agent identification and scoped, delegated permissions.",
+   "tags": [
+    "ai agents",
+    "account access",
+    "credential sharing",
+    "authentication"
+   ]
+  },
+  {
+   "id": "accertify-q3-2026-air-travel-fraud-report",
+   "title": "Q3 2026 Global Air Travel Fraud Report",
+   "url": "https://www.accertify.com/resource/q3-2026-global-air-travel-fraud-report/",
+   "source": "Accertify",
+   "kind": "report",
+   "topic": "fraud",
+   "published": "2026-10-20",
+   "added": "2026-10-26",
+   "summary": "Accertify's quarterly analysis of roughly 123 million airline bookings shows prevented fraud rates climbing in many departure markets even as booking volumes fell, with sharp regional differences led by the Middle East, Africa and South Asia. Teams running card-not-present risk for travel or other high-ticket digital goods can use the regional baselines to tune geography-based rules and expect fraud pressure to hold up when legitimate demand softens.",
+   "tags": [
+    "travel fraud",
+    "card-not-present",
+    "benchmarks"
+   ]
+  },
+  {
+   "id": "bleepingcomputer-revolut-outage-google-cloud",
+   "title": "Revolut outage disrupts online banking operations worldwide",
+   "url": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
+   "source": "BleepingComputer",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-10-20",
+   "added": "2026-10-26",
+   "summary": "A widespread Revolut outage that knocked out its app, transfers and card-related services was traced to a power event at a single Google Cloud region in London. It is a sharp reminder for payment platform engineers to test regional failover and dependency concentration in their cloud footprint, since one zone or region failure can still take down customer-facing money movement.",
+   "tags": [
+    "outage",
+    "resilience",
+    "cloud",
+    "failover"
+   ]
+  },
+  {
+   "id": "pymnts-apple-pay-at-12-card-habit-in-store",
+   "title": "At 12, Apple Pay Has Yet to Break the Card Habit In-Store",
+   "url": "https://www.pymnts.com/digital-payments/2026/at-12-apple-pay-has-yet-to-break-the-card-habit-in-store/",
+   "source": "PYMNTS",
+   "kind": "research",
+   "topic": "retail",
+   "published": "2026-10-20",
+   "added": "2026-10-26",
+   "summary": "A PYMNTS Intelligence survey of about 2,500 U.S. consumers finds mobile wallet use at the register has roughly doubled since 2023 but is still a small share of in-store purchases, with rewards loyalty keeping physical and tap-to-pay cards dominant. Retail payment teams can use the data to calibrate wallet acceptance and checkout investments, and to note that wallet usage tracks which card is loaded more than the wallet itself.",
+   "tags": [
+    "mobile wallets",
+    "contactless",
+    "in-store",
+    "consumer research"
+   ]
+  },
   {
    "id": "paymentsdive-treasury-270m-suspicious-financial-aid",
    "title": "Treasury tallies $270M in suspicious financial aid transactions",
