@@ -1,6 +1,107 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-10-27",
  "items": [
+  {
+   "id": "paymentsdive-fed-loses-debit-card-cap-appeal",
+   "title": "Fed loses debit card cap appeal",
+   "url": "https://www.paymentsdive.com/news/fed-loses-debit-card-cap-appeal/872785/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-10-26",
+   "added": "2026-10-27",
+   "summary": "An Eighth Circuit panel affirmed a lower-court ruling that vacated the Federal Reserve's 21-cent debit interchange cap, finding the Fed may only count per-transaction incremental costs and must rewrite the standard. A lower cap would reshape debit acceptance economics and routing strategy for merchants and issuers alike, though a conflicting Sixth Circuit case keeps the final outcome uncertain.",
+   "tags": [
+    "interchange",
+    "durbin",
+    "regulation ii",
+    "debit"
+   ]
+  },
+  {
+   "id": "grocerydive-usda-ebt-chip-tap-to-pay",
+   "title": "USDA proposes adding chip and tap-to-pay tech to EBT cards",
+   "url": "https://www.grocerydive.com/news/nga-snap-usda-proposed-rule-ebt-chip-cards/833879/",
+   "source": "Grocery Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-10-26",
+   "added": "2026-10-27",
+   "summary": "A proposed USDA rule would require every state to issue SNAP EBT cards with EMV chip and contactless capability, and require authorized retailers to accept them within two years of finalization. Grocers and POS teams should plan terminal and certification work now, since moving off magstripe is aimed squarely at the skimming losses that have plagued benefit cards.",
+   "tags": [
+    "ebt",
+    "emv",
+    "contactless",
+    "skimming"
+   ]
+  },
+  {
+   "id": "pymnts-retailers-declined-payments-second-chance",
+   "title": "Retailers See Declined Payments but Miss the Second Chance to Save the Sale",
+   "url": "https://pymnts.com/news/payment-methods/2026/retailers-see-declined-payments-but-miss-the-second-chance-to-save-the-sale",
+   "source": "PYMNTS",
+   "kind": "article",
+   "topic": "engineering",
+   "published": "2026-10-26",
+   "added": "2026-10-27",
+   "summary": "Survey data shows commerce firms apply intelligent retries to well under half of declined payments, roughly half the rate of finance and infrastructure firms, and that limited control over payment tokens sharply curbs automatic rerouting. It is a useful benchmark for teams weighing investment in retry logic, token portability and multi-processor routing to recover authorizations.",
+   "tags": [
+    "authorization",
+    "retries",
+    "orchestration",
+    "tokenization"
+   ]
+  },
+  {
+   "id": "paymentsjournal-local-payments-council-agentic-commerce",
+   "title": "European Payments Firms Form Council for Agentic Commerce",
+   "url": "https://www.paymentsjournal.com/european-payments-firms-form-council-for-agentic-commerce/",
+   "source": "PaymentsJournal",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-10-26",
+   "added": "2026-10-27",
+   "summary": "A group of European local payment schemes and processors has formed a council to define how consumers authorize AI agents, how banks verify them, how agents identify merchants, and how refunds and disputes work. It adds another standards track alongside network-led agent identity work, so builders of agentic checkout should expect to support local methods and multiple verification models.",
+   "tags": [
+    "agentic commerce",
+    "standards",
+    "local payment methods",
+    "europe"
+   ]
+  },
+  {
+   "id": "digitaltransactions-ai-deepfakes-account-takeover",
+   "title": "AI and Deepfakes Are Streamlining Account Takeover Attacks",
+   "url": "https://www.digitaltransactions.net/ai-and-deepfakes-are-streamlining-account-takeover-attacks/",
+   "source": "Digital Transactions",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-26",
+   "added": "2026-10-27",
+   "summary": "New identity-verification data indicates a large share of failed fraud attempts involved forged identity documents, with AI and deepfakes making it easier for attackers to pose as real customers and get into established accounts. The takeaway for risk teams is that trust established at onboarding decays, so step-up checks and behavioral monitoring need to continue throughout the account lifecycle.",
+   "tags": [
+    "account takeover",
+    "deepfakes",
+    "identity verification"
+   ]
+  },
+  {
+   "id": "financialit-chargebacks911-ai-agent-purchase-indemnification",
+   "title": "Chargebacks911 Launches First-of-Its-Kind AI Agent Purchase Indemnification for Merchants",
+   "url": "https://financialit.net/news/artificial-intelligence/chargebacks911-launches-first-its-kind-ai-agent-purchase",
+   "source": "Financial IT",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-26",
+   "added": "2026-10-27",
+   "summary": "A dispute-management provider now offers an add-on that covers merchants against qualifying chargebacks on agent-initiated purchases, using behavioral and dispute history to decide which transactions are eligible. It signals that liability for AI-agent purchases is starting to be priced and transferred, which matters for anyone designing agentic checkout risk rules and dispute workflows.",
+   "tags": [
+    "chargebacks",
+    "agentic commerce",
+    "disputes",
+    "liability"
+   ]
+  },
   {
    "id": "pymnts-57pct-large-firms-bot-agent-incidents",
    "title": "57% of Large Firms Report Bot or Agent Incidents or Losses",
