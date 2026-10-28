@@ -1,6 +1,74 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "items": [
+  {
+   "id": "prnewswire-justt-chargeback-benchmark-2026",
+   "title": "Shoppers Are Turning Chargebacks Into a Customer Service Hotline, Justt Chargeback Benchmark Report Finds",
+   "url": "https://www.prnewswire.com/il/news-releases/shoppers-are-turning-chargebacks-into-a-customer-service-hotline-justt-chargeback-benchmark-report-finds-302919550.html",
+   "source": "Justt",
+   "kind": "report",
+   "topic": "fraud",
+   "published": "2026-10-27",
+   "added": "2026-10-28",
+   "summary": "A two-year study of contested chargebacks across 165 merchants finds item-not-received and cancelled-subscription disputes nearly doubled their share to about a quarter, while fraud-coded disputes fell to roughly 60 percent; win rates on identical claims varied by 30-plus points depending on processor and issuer. Dispute teams may need evidence and automation tuned for service claims, and the partner-level variance argues for tracking representment outcomes by acquirer and issuer.",
+   "tags": [
+    "chargebacks",
+    "disputes",
+    "friendly fraud",
+    "benchmark"
+   ]
+  },
+  {
+   "id": "helpnetsecurity-socure-agent-intelligence",
+   "title": "Socure links AI agents to verified people and businesses",
+   "url": "https://www.helpnetsecurity.com/2026/10/27/socure-agent-intelligence/",
+   "source": "Help Net Security",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-27",
+   "added": "2026-10-28",
+   "summary": "Socure introduced a suite that detects AI agents driving browser sessions, scores their trustworthiness across identity, authorization and risk signals, and binds agents to a verified principal through W3C verifiable credentials. It is another sign that risk stacks are adding an agent-identity layer, so fraud decisioning will increasingly need to ask who authorized an agent rather than only whether traffic is a bot.",
+   "tags": [
+    "agentic commerce",
+    "identity",
+    "bots",
+    "verification"
+   ]
+  },
+  {
+   "id": "pymnts-visa-credentials-5-2-billion-agentic",
+   "title": "Visa Credentials Reach 5.2 Billion as Network Expands Into Agentic Commerce",
+   "url": "https://pymnts.com/earnings/2026/visa-credentials-reach-5-2-billion-as-network-expands-into-agentic-commerce",
+   "source": "PYMNTS",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-10-27",
+   "added": "2026-10-28",
+   "summary": "Visa's fiscal fourth-quarter results show tokens now cover more than half of credentials and over 60 percent of e-commerce transactions, tap-to-pay at about three-quarters of U.S. in-person payments, and dozens of agentic-commerce partners in production with leadership naming trust as the main barrier. Token coverage at this level makes network tokens the default card-not-present path, and the agentic push signals more token-based delegation that risk and checkout systems must handle.",
+   "tags": [
+    "network tokens",
+    "agentic commerce",
+    "contactless",
+    "earnings"
+   ]
+  },
+  {
+   "id": "digitaltransactions-fpc-instant-payments-messaging-guide",
+   "title": "The Faster Payments Council Issues a Guide on Messaging",
+   "url": "https://www.digitaltransactions.net/the-faster-payments-council-issues-a-guide-on-messaging/",
+   "source": "Digital Transactions",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-10-26",
+   "added": "2026-10-28",
+   "summary": "The U.S. Faster Payments Council published operational guidance on non-value messages for instant payments, such as payment requests, returns, status reports and exception handling, as RTP and FedNow volumes keep climbing. Teams building on real-time rails can use it as a checklist for the exception and status flows that usually decide whether irrevocable payments are supportable in production.",
+   "tags": [
+    "real-time payments",
+    "fednow",
+    "rtp",
+    "operations"
+   ]
+  },
   {
    "id": "paymentsdive-fed-loses-debit-card-cap-appeal",
    "title": "Fed loses debit card cap appeal",
