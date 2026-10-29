@@ -1,6 +1,86 @@
 {
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "items": [
+  {
+   "id": "paymentsdive-liability-looms-over-ai-shopping",
+   "title": "Liability looms over AI shopping",
+   "url": "https://www.paymentsdive.com/news/liability-looms-over-ai-shopping/872979/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-28",
+   "added": "2026-10-29",
+   "summary": "Bank and payments executives warn that purchases made by AI agents are spreading faster than the rules that decide who pays when something goes wrong, with competing protocols, narrow purchase-protection offers and no case law yet. For teams running disputes and fraud operations, unclear liability means agent-initiated transactions may need distinct flags, evidence capture and loss-allocation policies before volumes grow.",
+   "tags": [
+    "agentic commerce",
+    "liability",
+    "disputes"
+   ]
+  },
+  {
+   "id": "pymnts-fraudsters-leave-patterns-aws-ai",
+   "title": "Fraudsters Leave Patterns, and AWS Wants AI to Follow Them",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/fraudsters-leave-patterns-and-aws-wants-ai-to-follow-them/",
+   "source": "PYMNTS",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-10-27",
+   "added": "2026-10-29",
+   "summary": "The piece describes banks moving from static rules toward transaction foundation models and graph neural networks that track behavior sequences and links between accounts and devices, with agentic tools assembling investigation evidence while humans keep the final call. It offers a useful reference architecture for fraud ML teams weighing sequence and graph models against card testing, scams and synthetic identities.",
+   "tags": [
+    "fraud ml",
+    "graph models",
+    "card testing"
+   ]
+  },
+  {
+   "id": "grocerydive-instacart-stops-smart-carts",
+   "title": "Instacart to stop offering smart carts",
+   "url": "https://www.grocerydive.com/news/instacart-stops-smart-carts-business/872824/",
+   "source": "Grocery Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-10-27",
+   "added": "2026-10-29",
+   "summary": "Instacart is winding down its Caper smart-cart hardware business after slow retailer adoption, taking a sizable charge and shifting its in-store push toward software, data and AI. The retreat is a signal for anyone planning in-aisle or cart-based checkout that hardware-heavy approaches face steep rollout economics compared with phone and lane-based options.",
+   "tags": [
+    "grocery",
+    "smart carts",
+    "in-store checkout"
+   ]
+  },
+  {
+   "id": "pymnts-ai-recommendations-need-trusted-checkout",
+   "title": "AI Recommendations Need a Checkout Shoppers Trust",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-recommendations-need-a-checkout-shoppers-trust/",
+   "source": "PYMNTS",
+   "kind": "article",
+   "topic": "retail",
+   "published": "2026-10-22",
+   "added": "2026-10-29",
+   "summary": "Survey data shows AI shopping assistants send many consumers to stores they have never used, yet most still complete the purchase on a familiar marketplace where payment details and protections are already stored. For commerce teams, it suggests that stored credentials, clear returns and dispute handling at checkout matter more than discovery in winning AI-referred sales.",
+   "tags": [
+    "ai shopping",
+    "checkout",
+    "conversion"
+   ]
+  },
+  {
+   "id": "stripe-designing-checkout-for-ai-agents",
+   "title": "How Stripe is designing Checkout for AI agents",
+   "url": "https://stripe.dev/blog/how-stripe-is-designing-checkout-for-ai-agents",
+   "source": "Stripe",
+   "kind": "blog",
+   "topic": "engineering",
+   "published": "2026-09-22",
+   "added": "2026-10-29",
+   "summary": "Stripe explains how it exposed its hosted checkout to AI agents through WebMCP, surfacing tools only when relevant to page state and reusing existing frontend logic, and reports agents finishing checkout faster with fewer tokens and tool calls. It is a concrete pattern for engineers deciding whether to build a separate agent checkout or make the existing one machine-readable.",
+   "tags": [
+    "agentic commerce",
+    "checkout",
+    "webmcp"
+   ]
+  },
   {
    "id": "prnewswire-justt-chargeback-benchmark-2026",
    "title": "Shoppers Are Turning Chargebacks Into a Customer Service Hotline, Justt Chargeback Benchmark Report Finds",
