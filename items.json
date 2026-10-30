@@ -1,6 +1,107 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "items": [
+  {
+   "id": "akamai-fraud-abuse-report-2026-digital-deception",
+   "title": "Akamai Report: AI-Driven Digital Deception Is Escalating Enterprise Fraud and Shrinking Phishing Lifespans",
+   "url": "https://www.globenewswire.com/news-release/2026/10/29/3391041/0/en/akamai-report-ai-driven-digital-deception-is-escalating-enterprise-fraud-and-shrinking-phishing-lifespans.html",
+   "source": "Akamai",
+   "kind": "report",
+   "topic": "fraud",
+   "published": "2026-10-29",
+   "added": "2026-10-30",
+   "summary": "Akamai's 2026 fraud and abuse research finds scams such as fake shops overtook classic credential phishing early in the year, and that commerce draws the largest share of login traffic, with a big slice of risky attempts being account-verification probes that precede credential stuffing. For teams defending logins and checkout, it argues for watching intent across the whole account lifecycle to catch slow, low-volume stuffing and card testing that rate limits miss.",
+   "tags": [
+    "account takeover",
+    "credential stuffing",
+    "bots",
+    "scams"
+   ]
+  },
+  {
+   "id": "digitaltransactions-mastercard-turning-point-agentic",
+   "title": "Mastercard's Plans for a 'Turning Point' in Agentic Commerce",
+   "url": "https://www.digitaltransactions.net/mastercards-plans-for-a-turning-point-in-agentic-commerce/",
+   "source": "Digital Transactions",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-10-29",
+   "added": "2026-10-30",
+   "summary": "Alongside strong quarterly results, Mastercard's chief executive said agent-driven shopping is already adding network volume and should keep growing through the holidays, while noting that issuers, processors and merchants are at very different stages of readiness for it. That readiness gap is the practical issue for payment engineers, since agent tooling and tokenized credentials only help if every hop in the authorization chain can recognize and handle agent-initiated transactions.",
+   "tags": [
+    "agentic commerce",
+    "card networks",
+    "tokenization"
+   ]
+  },
+  {
+   "id": "paymentsdive-elavon-pursues-paze-agentic-commerce",
+   "title": "Elavon pursues Paze, agentic commerce",
+   "url": "https://www.paymentsdive.com/news/elavon-ceo-trust-not-speed-will-rule-agentic-commerce/873185/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-10-29",
+   "added": "2026-10-30",
+   "summary": "Speaking at Money20/20, the head of a large merchant acquirer urged the industry to put safety ahead of speed as AI agents enter checkout, and said the bank-owned Paze wallet is ready for pilots despite the tough economics of past wallet wars. It frames a real tension for merchants and acquirers choosing between fast-moving tech-platform agent launches and slower bank-led wallet and trust frameworks.",
+   "tags": [
+    "wallets",
+    "paze",
+    "agentic commerce",
+    "acquiring"
+   ]
+  },
+  {
+   "id": "paymentsdive-ditching-honor-all-cards-rule",
+   "title": "Will ditching the 'honor all cards' rule matter?",
+   "url": "https://www.paymentsdive.com/news/will-ditching-honor-all-cards-rule-matter-visa-mastercard-amex/873187/",
+   "source": "Payments Dive",
+   "kind": "article",
+   "topic": "retail",
+   "published": "2026-10-29",
+   "added": "2026-10-30",
+   "summary": "The proposed card-network settlement would let merchants decline or surcharge premium cards instead of accepting every card a network issues, but observers doubt many retailers will risk turning away high-spending customers. If the change survives court review, acceptance logic, surcharge disclosures and card-level routing at the point of sale could become new design decisions for merchant payment teams.",
+   "tags": [
+    "honor all cards",
+    "swipe fees",
+    "surcharging",
+    "network rules"
+   ]
+  },
+  {
+   "id": "paymentsdive-ftc-states-sue-toast-over-fees",
+   "title": "FTC, states sue Toast over fees",
+   "url": "https://www.paymentsdive.com/news/ftc-states-sue-toast-over-fees-restaurant-dining-online-food/873225/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-10-29",
+   "added": "2026-10-30",
+   "summary": "Federal and state regulators accuse the restaurant point-of-sale and payments provider of hiding fees from merchants and diners, including a small charge on online orders, and of making subscriptions hard to cancel, which the company denies. The case signals rising enforcement attention on fee transparency across commerce payment stacks, from checkout line items to merchant contract terms.",
+   "tags": [
+    "junk fees",
+    "point of sale",
+    "ftc",
+    "regulation"
+   ]
+  },
+  {
+   "id": "stripe-agentic-payments-for-marketplaces",
+   "title": "Agentic payments for marketplaces: How a smart fridge can shop safely",
+   "url": "https://stripe.dev/blog/agentic-payments-for-marketplaces",
+   "source": "Stripe",
+   "kind": "blog",
+   "topic": "engineering",
+   "published": "2026-08-07",
+   "added": "2026-10-30",
+   "summary": "This engineering walkthrough builds an autonomous reordering agent on an agentic checkout protocol, with a deterministic policy engine that approves, escalates or denies each final basket and with spend authority granted through scoped, revocable payment tokens instead of raw card data. It is a concrete reference design for keeping LLMs out of the authorization decision, using bounded grants, idempotent retries and verified webhooks to make agent purchases safe.",
+   "tags": [
+    "agentic commerce",
+    "policy engine",
+    "idempotency",
+    "payment tokens"
+   ]
+  },
   {
    "id": "paymentsdive-liability-looms-over-ai-shopping",
    "title": "Liability looms over AI shopping",
