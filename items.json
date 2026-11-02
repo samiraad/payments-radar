@@ -1,6 +1,104 @@
 {
- "updated": "2026-10-30",
+ "updated": "2026-11-02",
  "items": [
+  {
+   "id": "digitaltransactions-checkout-com-passkey-support",
+   "title": "Checkout.com Is the Latest Merchant Services Entity To Add Passkey Support",
+   "url": "https://www.digitaltransactions.net/checkout-com-is-the-latest-merchant-services-entity-to-add-passkey-support/",
+   "source": "Digital Transactions",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-10-30",
+   "added": "2026-11-02",
+   "summary": "Checkout.com is adding passkey authentication for card payments through Visa Payment Passkey, starting in the UK and Europe and letting merchants switch it on without rebuilding checkout. Device-bound biometric credentials replacing one-time passcodes is a meaningful shift for step-up authentication, account takeover defenses and the conversion cost of challenge flows.",
+   "tags": [
+    "passkeys",
+    "authentication",
+    "3ds",
+    "account-takeover"
+   ]
+  },
+  {
+   "id": "paymentsdive-ai-agents-wont-pay-the-way-you-do",
+   "title": "AI agents won't pay the way you do",
+   "url": "https://www.paymentsdive.com/news/ai-agents-wont-pay-same-ways-agentic-commerce-payments/873291/",
+   "source": "Payments Dive",
+   "kind": "article",
+   "topic": "engineering",
+   "published": "2026-10-30",
+   "added": "2026-11-02",
+   "summary": "In an interview, a Plaid payments executive argues that AI agents will pick payment methods by optimizing for rules the consumer sets, such as rewards or discounts, which could shift volume toward options like pay-by-bank as agents add more wallets. For teams building checkout and payment orchestration, it suggests method selection may move from a human UI choice to a programmatic decision that systems must expose and price clearly.",
+   "tags": [
+    "agentic-commerce",
+    "pay-by-bank",
+    "payment-methods"
+   ]
+  },
+  {
+   "id": "paymentsdive-settling-cross-border-payments-remains-tough",
+   "title": "Settling cross-border payments remains tough",
+   "url": "https://www.paymentsdive.com/news/settling-cross-border-payments-remains-tough/872997/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-10-29",
+   "added": "2026-11-02",
+   "summary": "Executives from Swift, Citi and Banking Circle told a Money20/20 panel that while messages now reach destination banks quickly, the final leg of local rules, operating hours and cash availability still dominates end-to-end cross-border speed. Engineers designing international payouts should treat last-mile settlement, not network transit, as the main source of latency and failure.",
+   "tags": [
+    "cross-border",
+    "settlement",
+    "swift"
+   ]
+  },
+  {
+   "id": "digitaltransactions-shopify-broadens-ai-agent-access",
+   "title": "NCR Voyix Scoops up Bruster's; Shopify Broadens AI Agent Access",
+   "url": "https://www.digitaltransactions.net/ncr-voyix-scoops-up-brusters-shopify-broadens-ai-agent-access/",
+   "source": "Digital Transactions",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-10-29",
+   "added": "2026-11-02",
+   "summary": "Shopify's fall release lets AI agents check out with Shop Pay using network-issued tokens, adds Alipay, WeChat Pay and GrabPay, and introduces a free fraud and dispute service for merchants; the same roundup covers a large NCR Voyix restaurant POS rollout. Bundling agent checkout with built-in dispute tooling signals how commerce platforms expect to absorb agent-era fraud and chargeback risk ahead of the holiday peak.",
+   "tags": [
+    "agentic-commerce",
+    "network-tokens",
+    "disputes",
+    "pos"
+   ]
+  },
+  {
+   "id": "grocerydive-doordash-to-buy-instacart",
+   "title": "DoorDash to buy Instacart for $17B",
+   "url": "https://www.grocerydive.com/news/doordash-to-buy-instacart-for-17b/872978/",
+   "source": "Grocery Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-10-29",
+   "added": "2026-11-02",
+   "summary": "DoorDash agreed to acquire Instacart for about $17 billion, keeping its brand, app and enterprise grocery technology, with closing expected in late 2027 or early 2028. Consolidation of the two largest delivery marketplaces could reshape grocery order flows, retailer checkout integrations and the fraud and payout surfaces that sit behind delivery platforms.",
+   "tags": [
+    "grocery",
+    "delivery",
+    "m-and-a"
+   ]
+  },
+  {
+   "id": "digitaltransactions-itrc-scam-fallout-more-than-financial",
+   "title": "Identity Theft and Scam Fallout Is More Than Financial, ITRC Finds",
+   "url": "https://www.digitaltransactions.net/identity-theft-and-scam-fallout-is-more-than-financial-itrc-finds/",
+   "source": "Digital Transactions",
+   "kind": "report",
+   "topic": "fraud",
+   "published": "2026-10-28",
+   "added": "2026-11-02",
+   "summary": "The Identity Theft Resource Center's 2026 consumer impact study finds scam victims report far heavier personal and economic harm than traditional identity-theft victims, and most say the organizations they reported to never followed up. It is a reminder that scam programs are judged on victim response and recovery workflows as well as on detection rates.",
+   "tags": [
+    "scams",
+    "identity-theft",
+    "victim-support"
+   ]
+  },
   {
    "id": "akamai-fraud-abuse-report-2026-digital-deception",
    "title": "Akamai Report: AI-Driven Digital Deception Is Escalating Enterprise Fraud and Shrinking Phishing Lifespans",
