@@ -1,6 +1,157 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "items": [
+  {
+   "id": "pymnts-google-wallet-confirm-identity-every-payment",
+   "title": "Google Wallet Tests Asking Users to Confirm Identity Before Every Payment",
+   "url": "https://pymnts.com/authentication/2026/google-wallet-tests-letting-users-confirm-identity-before-every-contactless-payment",
+   "source": "PYMNTS",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-02",
+   "added": "2026-11-03",
+   "summary": "Code in a Google Wallet update points to an optional setting that would require authentication before each tap-to-pay transaction instead of allowing several payments within a short window after one unlock. If it ships, in-store checkout teams may see slightly slower contactless taps for some users, while issuers gain a stronger cardholder-verification signal on wallet payments.",
+   "tags": [
+    "wallets",
+    "contactless",
+    "authentication"
+   ]
+  },
+  {
+   "id": "paymentsjournal-agentic-commerce-wallet-as-important-as-bot",
+   "title": "With Agentic Commerce, the Wallet Will Be as Important as the Bot",
+   "url": "https://www.paymentsjournal.com/with-agentic-commerce-the-wallet-will-be-as-important-as-the-bot/",
+   "source": "PaymentsJournal",
+   "kind": "article",
+   "topic": "retail",
+   "published": "2026-11-02",
+   "added": "2026-11-03",
+   "summary": "An analyst argues that digital wallets are the most practical bridge between today's payment systems and autonomous agent purchases, and that incumbents should build agent-agnostic infrastructure rather than bet on one consumer assistant. For commerce and payments builders, it suggests investing in credential and wallet capabilities that work across many agents and platforms.",
+   "tags": [
+    "wallets",
+    "agentic-commerce",
+    "strategy"
+   ]
+  },
+  {
+   "id": "epi-tencent-visa-cross-border-ai",
+   "title": "Tencent and Visa partner on cross-border payments and AI",
+   "url": "https://www.electronicpaymentsinternational.com/news/tencent-visa-cross-border-payments-ai/",
+   "source": "Electronic Payments International",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-10-30",
+   "added": "2026-11-03",
+   "summary": "Tencent and Visa signed a preliminary agreement to explore cross-border remittances, travel payments to and from China, enterprise AI, and how AI agents could make purchases with user control and security built in. A tie-up between a dominant super-app wallet and a global card network signals that agent payment flows will need to interoperate across very different rails and regulatory regimes.",
+   "tags": [
+    "agentic-commerce",
+    "cross-border",
+    "wallets",
+    "card-networks"
+   ]
+  },
+  {
+   "id": "paymentsjournal-data-sharing-barriers-fraud",
+   "title": "Why Breaking Down Data-Sharing Barriers Is Critical to Fighting Fraud",
+   "url": "https://www.paymentsjournal.com/why-breaking-down-data-sharing-barriers-is-critical-to-fighting-fraud/",
+   "source": "PaymentsJournal",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-10-30",
+   "added": "2026-11-03",
+   "summary": "The piece argues that because organized fraud rings hit many institutions with the same playbook, consortium-style intelligence sharing is essential, but legal ambiguity, inconsistent fraud definitions, privacy, competition and cost keep getting in the way. Teams designing fraud signals should note the role hashing and tokenization can play in sharing indicators without exposing personal data.",
+   "tags": [
+    "data-sharing",
+    "consortium",
+    "scams",
+    "privacy"
+   ]
+  },
+  {
+   "id": "stripe-claimable-sandboxes-agents",
+   "title": "Claimable sandboxes: Frictionless Stripe accounts for agents",
+   "url": "https://stripe.dev/blog/claimable-sandboxes-frictionless-stripe-accounts-for-agents",
+   "source": "Stripe",
+   "kind": "blog",
+   "topic": "engineering",
+   "published": "2026-10-29",
+   "added": "2026-11-03",
+   "summary": "Stripe explains how it hands out anonymous, short-lived test environments that coding agents can use immediately and that a person can later convert into a real account, using a pre-warmed pool partitioned by country and use case, TTL-based cleanup, and proof-of-work and rate limits to deter abuse. It is a useful pattern for any payments platform that wants agents to integrate without signup friction while still controlling provisioning cost and fraud exposure.",
+   "tags": [
+    "agents",
+    "developer-platform",
+    "abuse-prevention",
+    "temporal"
+   ]
+  },
+  {
+   "id": "paymentsjournal-authentication-revenue-strategy",
+   "title": "Why Authentication Is a Revenue Strategy, Not Just a Fraud Control",
+   "url": "https://www.paymentsjournal.com/why-authentication-is-a-revenue-strategy-not-just-a-fraud-control/",
+   "source": "PaymentsJournal",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-10-29",
+   "added": "2026-11-03",
+   "summary": "An interview makes the case that issuers underinvest in authentication after initial rollout and proposes passkeys bound to physical cards to prove both identity and card possession, including for card-not-present purchases. The framing matters for risk teams because it ties stronger authentication directly to fewer false declines and higher approval rates, not just lower fraud losses.",
+   "tags": [
+    "passkeys",
+    "authentication",
+    "false-declines",
+    "issuers"
+   ]
+  },
+  {
+   "id": "transunion-canada-digital-fraud-2026",
+   "title": "Nearly Half of Canadians Report Being Targeted by Digital Fraud as Scammers Exploit Familiar Communications and Accounts",
+   "url": "https://www.globenewswire.com/news-release/2026/10/28/3389937/0/en/nearly-half-of-canadians-report-being-targeted-by-digital-fraud-as-scammers-exploit-familiar-communications-and-accounts.html",
+   "source": "TransUnion",
+   "kind": "report",
+   "topic": "fraud",
+   "published": "2026-10-28",
+   "added": "2026-11-03",
+   "summary": "TransUnion's Canadian fraud report finds roughly half of consumers were targeted by phishing, vishing or smishing in a recent quarter, with login events making up the largest share of suspected digital fraud and synthetic identities driving a notable slice of onboarding credit losses. The data reinforces that post-login account takeover and authorized scams, not just new-account fraud, should drive where detection effort goes heading into the holidays.",
+   "tags": [
+    "account-takeover",
+    "scams",
+    "synthetic-identity",
+    "canada"
+   ]
+  },
+  {
+   "id": "hmrc-electronic-sales-suppression-pos-standards",
+   "title": "Electronic Sales Suppression: Introduction of software standards",
+   "url": "https://www.gov.uk/government/consultations/electronic-sales-suppression-introduction-of-software-standards",
+   "source": "HM Revenue & Customs",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-10-28",
+   "added": "2026-11-03",
+   "summary": "The UK tax authority confirmed it will make software standards mandatory for electronic and mobile point-of-sale systems to stop till fraud, where sales records are hidden or understated, with a technical consultation due in summer 2027. POS vendors and retailers operating in the UK should expect new integrity and reporting requirements on how transaction records are stored and altered.",
+   "tags": [
+    "pos",
+    "till-fraud",
+    "regulation",
+    "uk"
+   ]
+  },
+  {
+   "id": "thepaypers-visa-mastercard-uk-5bn-fee-claim",
+   "title": "Visa and Mastercard face potential GBP 5 billion UK lawsuit over fees",
+   "url": "https://thepaypers.com/fraud-and-fincrime/news/visa-and-mastercard-face-potential-gbp-5-billion-uk-lawsuit-over-fees",
+   "source": "The Paypers",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-10-27",
+   "added": "2026-11-03",
+   "summary": "Law firms have asked the UK Competition Appeal Tribunal to certify an opt-out collective claim seeking to recover allegedly excessive interchange fees paid by UK businesses from 2020 through 2026. It adds to the growing pile of swipe-fee litigation on both sides of the Atlantic that could reshape merchant acceptance costs and network pricing.",
+   "tags": [
+    "interchange",
+    "litigation",
+    "uk",
+    "swipe-fees"
+   ]
+  },
   {
    "id": "digitaltransactions-checkout-com-passkey-support",
    "title": "Checkout.com Is the Latest Merchant Services Entity To Add Passkey Support",
