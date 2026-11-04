@@ -1,6 +1,102 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "items": [
+  {
+   "id": "pymnts-revolve-breach-fashion-retail-platform",
+   "title": "Revolve Reports Breach of Fashion Retail Platform",
+   "url": "https://www.pymnts.com/cybersecurity/2026/revolve-reports-breach-fashion-retail-platform/",
+   "source": "PYMNTS",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-03",
+   "added": "2026-11-04",
+   "summary": "An online fashion retailer disclosed a September intrusion touching at least 200,000 people, with attackers possibly reaching card numbers and expiry dates that shoppers had saved to their accounts. Stored-credential exposure like this tends to feed card testing and card-not-present fraud downstream, so it is a reminder to tighten vaulting, tokenization and monitoring around saved cards.",
+   "tags": [
+    "data breach",
+    "stored cards",
+    "card-not-present"
+   ]
+  },
+  {
+   "id": "paymentsjournal-social-media-blueprint-targeted-scams",
+   "title": "Social Media Posts Can Provide the Blueprint for Targeted Scams",
+   "url": "https://www.paymentsjournal.com/social-media-posts-can-provide-the-blueprint-for-targeted-scams/",
+   "source": "PaymentsJournal",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-11-03",
+   "added": "2026-11-04",
+   "summary": "University researchers showed that AI tools can scrape public social profiles and rapidly produce personalized phishing emails that test participants rated as convincing. Hyper-tailored lures weaken the usual tells that scam-detection models and customer education rely on, pushing defenses toward behavioral and transaction-level signals.",
+   "tags": [
+    "scams",
+    "phishing",
+    "generative ai"
+   ]
+  },
+  {
+   "id": "paymentsdive-google-makes-big-plans-for-wallet",
+   "title": "Google makes big plans for wallet",
+   "url": "https://www.paymentsdive.com/news/google-thinks-bigger-about-the-wallet-digital-agentic-retail/873585/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-03",
+   "added": "2026-11-04",
+   "summary": "Google's payments leadership laid out plans to extend its wallet beyond stored cards into receipts, order tracking, refunds and merchant offers, and to position it as the credential store for agent-led purchases. If wallets absorb post-purchase steps and targeted offers, merchants and acquirers will need to integrate more deeply with wallet providers for returns, loyalty and checkout data.",
+   "tags": [
+    "digital wallets",
+    "checkout",
+    "agentic commerce"
+   ]
+  },
+  {
+   "id": "paymentsdive-fiserv-talks-potential-asset-buyers",
+   "title": "Fiserv talks to potential asset buyers",
+   "url": "https://www.paymentsdive.com/news/fiserv-talks-to-potential-asset-buyers/873604/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-03",
+   "added": "2026-11-04",
+   "summary": "One of the largest U.S. processors doubled its cost-cutting goal, has shed thousands of workers and contractors, and opened talks to sell non-core units after a quarter marked by a large goodwill write-down. Restructuring at a major acquirer and point-of-sale provider can ripple into product roadmaps, support and pricing for the many merchants and partners that depend on it.",
+   "tags": [
+    "processors",
+    "merchant acquiring",
+    "industry"
+   ]
+  },
+  {
+   "id": "pymnts-mastercard-openai-tencent-agentic-commerce",
+   "title": "Mastercard Forms OpenAI and Tencent Partnerships to Drive Agentic Commerce",
+   "url": "https://www.pymnts.com/partnerships/2026/mastercard-forms-openai-and-tencent-partnerships-to-drive-agentic-commerce/",
+   "source": "PYMNTS",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-11-02",
+   "added": "2026-11-04",
+   "summary": "Mastercard described a broad agreement with OpenAI built around its Agent Pay infrastructure and signed a separate memorandum with TenPay Global covering agentic commerce, cross-border QR acceptance and remittances. Network-level deals like these shape which tokenized agent credentials and protocols merchants and processors will need to support, while executives concede consumer trust in agents still has to catch up.",
+   "tags": [
+    "agentic commerce",
+    "tokenization",
+    "networks"
+   ]
+  },
+  {
+   "id": "digitaltransactions-holiday-shoppers-bnpl-gift-cards",
+   "title": "Holiday Shoppers Eye BNPL and Gift Cards",
+   "url": "https://www.digitaltransactions.net/holiday-shoppers-eye-bnpl-and-gift-cards/",
+   "source": "Digital Transactions",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-02",
+   "added": "2026-11-04",
+   "summary": "Survey work from an industry association and a consultancy finds affordability worries dominating U.S. holiday plans, with most shoppers intending to buy gift cards while close to half say they will skip buy now, pay later. The expected tender mix matters for peak-season capacity and risk planning, since gift card volume in particular is a perennial magnet for fraud and cash-out schemes.",
+   "tags": [
+    "holiday",
+    "gift cards",
+    "bnpl"
+   ]
+  },
   {
    "id": "pymnts-google-wallet-confirm-identity-every-payment",
    "title": "Google Wallet Tests Asking Users to Confirm Identity Before Every Payment",
