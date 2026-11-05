@@ -1,6 +1,157 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "items": [
+  {
+   "id": "paymentsdive-block-964m-doj-pact",
+   "title": "Block reaches $964M DOJ pact",
+   "url": "https://www.paymentsdive.com/news/block-reaches-964m-doj-pact/873729/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-04",
+   "added": "2026-11-05",
+   "summary": "Block disclosed an agreement in principle with the Justice Department to resolve claims that its anti-money-laundering program fell short of Bank Secrecy Act requirements, with a net payment of $764 million and deferred charges for three years. It is a reminder that compliance controls in fast-growing consumer payment apps carry enterprise-scale financial risk, and that monitoring, onboarding and suspicious-activity tooling deserve the same engineering investment as fraud models.",
+   "tags": [
+    "aml",
+    "bank secrecy act",
+    "enforcement",
+    "p2p"
+   ]
+  },
+  {
+   "id": "pymnts-verifone-visa-featurespace-fraud",
+   "title": "Verifone Turns to Visa's Featurespace to Combat Fraud",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/verifone-turns-to-visas-featurespace-to-combat-fraud/",
+   "source": "PYMNTS",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-04",
+   "added": "2026-11-05",
+   "summary": "Verifone has deployed Featurespace behavioral models across its gateways to score each payment in real time, using well over a thousand transaction attributes and per-merchant, per-card baselines while staying under 100 milliseconds. The rollout shows gateway-level adaptive scoring becoming a standard layer, which raises practical questions about latency budgets, overlapping scores and how merchants reconcile gateway decisions with their own rules.",
+   "tags": [
+    "fraud ml",
+    "behavioral analytics",
+    "gateway",
+    "real-time scoring"
+   ]
+  },
+  {
+   "id": "pymnts-banks-payment-modernization-shared-hubs",
+   "title": "Banks Move Payment Modernization From Separate Rails to Shared Hubs",
+   "url": "https://www.pymnts.com/news/banking/2026/banks-move-payment-modernization-separate-rails-shared-hubs/",
+   "source": "PYMNTS",
+   "kind": "article",
+   "topic": "engineering",
+   "published": "2026-11-04",
+   "added": "2026-11-05",
+   "summary": "A panel of bank and vendor practitioners described replacing per-rail payment applications with a shared hub that centralizes routing, screening, fraud controls and operations, migrating one rail at a time and keeping legacy systems running until the new platform proves itself. The discussion is a useful architecture checklist for anyone consolidating wires, ACH and instant payments, including the warning that translating ISO 20022 messages can strip out the richer data fraud and reconciliation teams need.",
+   "tags": [
+    "payment hub",
+    "architecture",
+    "iso 20022",
+    "migration"
+   ]
+  },
+  {
+   "id": "paymentsjournal-first-mover-advantage-agentic-commerce",
+   "title": "Will There Be a First-Mover Advantage in Agentic Commerce?",
+   "url": "https://www.paymentsjournal.com/will-there-be-a-first-mover-advantage-in-agentic-commerce/",
+   "source": "PaymentsJournal",
+   "kind": "article",
+   "topic": "engineering",
+   "published": "2026-11-04",
+   "added": "2026-11-05",
+   "summary": "The piece argues that agentic checkout is already fragmenting across several AI platforms, so merchants should avoid betting on one and instead build agent-agnostic plumbing such as payment orchestration and network tokens, plus richer product catalogs that agents can parse. For payment engineers, it frames the near-term job as abstraction and credential portability rather than one-off integrations with each new agent protocol.",
+   "tags": [
+    "agentic commerce",
+    "orchestration",
+    "network tokens"
+   ]
+  },
+  {
+   "id": "pymnts-microsoft-clarity-ai-shopping-agents",
+   "title": "Microsoft Clarity Helps Merchants Welcome AI Shopping Agents",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-clarity-helps-merchants-welcome-ai-shopping-agents/",
+   "source": "PYMNTS",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-11-04",
+   "added": "2026-11-05",
+   "summary": "Microsoft added agent-focused analytics to Clarity that show how AI agents move through a site and simulate whether they can complete tasks like applying a promotion or finishing checkout. Testing checkout flows against automated agents is becoming part of conversion and fraud engineering, since the same signals that block bad bots can silently break legitimate agent purchases.",
+   "tags": [
+    "agentic commerce",
+    "checkout testing",
+    "bots",
+    "analytics"
+   ]
+  },
+  {
+   "id": "paymentsdive-payments-firm-settles-ftc-fees-case",
+   "title": "Payments firm settles FTC fees case",
+   "url": "https://www.paymentsdive.com/news/payment-processor-settle-ftc-alleged-deceptive-fees/873669/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-04",
+   "added": "2026-11-05",
+   "summary": "The FTC and Washington state reached a proposed settlement with a card processor accused of promising small merchants large savings while omitting fees and burying renewal, termination and equipment-lease terms. Coming soon after regulators sued another restaurant-focused provider over fees, it signals growing scrutiny of how acceptance costs are disclosed and how easily merchants can exit processing contracts.",
+   "tags": [
+    "ftc",
+    "merchant fees",
+    "processing contracts"
+   ]
+  },
+  {
+   "id": "amlintelligence-fatf-worst-still-to-come-fraud-scams",
+   "title": "AI, digitalisation and better connected payments mean 'worst still to come' from fraud and online scams – FATF chief",
+   "url": "https://www.amlintelligence.com/2026/11/news-ai-digitalisation-and-better-connected-payments-mean-worst-still-to-come-from-fraud-and-online-scams-fatf-chief/",
+   "source": "AML Intelligence",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-03",
+   "added": "2026-11-05",
+   "summary": "The head of the FATF warned that scam activity will keep rising as AI-driven impersonation and instant payment rails let criminals move stolen funds out of the system within minutes, and previewed a new report on industrial-scale scam compounds. For teams running real-time payment and fraud systems, the gap between how fast money leaves and how slowly victims notice argues for pre-send risk checks, payee intelligence and faster interbank signal sharing.",
+   "tags": [
+    "scams",
+    "instant payments",
+    "fatf",
+    "money mules"
+   ]
+  },
+  {
+   "id": "pymnts-shopify-agentic-commerce-revenue-32",
+   "title": "Agentic Commerce Drives Shopify Revenue Up 32%",
+   "url": "https://www.pymnts.com/earnings/2026/shopify-revenue-jumps-32percent-as-agent-driven-commerce-surges/",
+   "source": "PYMNTS",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-03",
+   "added": "2026-11-05",
+   "summary": "Shopify reported strong quarterly growth and said AI-referred traffic to its merchants more than doubled year over year, with its wallet embedded in third-party AI interfaces so agents can buy without handling raw card numbers. It is an early data point that agent-driven orders are reaching meaningful volume, which puts pressure on merchants to support tokenized wallet credentials and adapt fraud rules to purchases that no human clicks through.",
+   "tags": [
+    "agentic commerce",
+    "wallets",
+    "ecommerce",
+    "earnings"
+   ]
+  },
+  {
+   "id": "massmarketretailers-trump-swipe-fee-legislation",
+   "title": "Merchants welcome Trump's renewed support for swipe fee legislation",
+   "url": "https://massmarketretailers.com/merchants-welcome-trumps-renewed-support-for-swipe-fee-legislation",
+   "source": "Mass Market Retailers",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-02",
+   "added": "2026-11-05",
+   "summary": "A merchant coalition praised renewed presidential backing for the Credit Card Competition Act, which would require large issuers to enable at least one unaffiliated network on credit cards, and repeated its own estimates of large annual savings. If the bill advances, retailers and acquirers would need routing logic, network certifications and least-cost-routing analytics for credit similar to what debit already requires.",
+   "tags": [
+    "swipe fees",
+    "credit card competition act",
+    "routing",
+    "interchange"
+   ]
+  },
   {
    "id": "pymnts-revolve-breach-fashion-retail-platform",
    "title": "Revolve Reports Breach of Fashion Retail Platform",
