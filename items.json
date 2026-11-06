@@ -1,6 +1,125 @@
 {
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "items": [
+  {
+   "id": "digitaltransactions-visa-agentic-commerce-benchmark",
+   "title": "Visa Preps Agentic Commerce Benchmark And Forecasts a 4.5% Holiday Spending Jump",
+   "url": "https://digitaltransactions.net/visa-preps-agentic-commerce-benchmark-and-forecasts-a-4-5-holiday-spending-jump",
+   "source": "Digital Transactions",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-11-05",
+   "added": "2026-11-06",
+   "summary": "Visa published a public benchmark that scores AI models on end-to-end shopping tasks, and in its first round the 22 tested models completed purchases correctly only a bit over half the time, with many failed runs still ending in a purchase. That gap between task failure and money actually moving is a concrete argument for strong mandate checks, intent verification and dispute handling in any system that accepts agent-initiated payments.",
+   "tags": [
+    "agentic commerce",
+    "ai agents",
+    "benchmark",
+    "visa"
+   ]
+  },
+  {
+   "id": "pymnts-klarna-scam-call-verification-tool",
+   "title": "Klarna Targets Scam Calls With New Verification Tool",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/klarna-targets-scam-calls-with-new-verification-tool/",
+   "source": "PYMNTS",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-05",
+   "added": "2026-11-06",
+   "summary": "Klarna expanded an in-app indicator to all its markets that lets customers check, during a phone call, whether the person claiming to represent the company is genuine. Impersonation scams sidestep transaction-level controls by persuading real customers to act, so tying caller verification to the authenticated app is a pattern other payment providers may adopt to break the social-engineering chain.",
+   "tags": [
+    "scams",
+    "impersonation",
+    "authentication",
+    "bnpl"
+   ]
+  },
+  {
+   "id": "paymentsdive-blue-wave-push-ccca",
+   "title": "Will a 'blue wave' push the CCCA?",
+   "url": "https://www.paymentsdive.com/news/will-a-blue-wave-push-the-ccca/873885/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-05",
+   "added": "2026-11-06",
+   "summary": "After this week's elections, the Credit Card Competition Act is set to lose both of its main Senate sponsors, leaving a narrow lame-duck window and an uncertain path in the next Congress, where interest-rate caps may draw more attention. Whether mandated dual network routing for credit cards survives determines how much merchants and acquirers need to invest in routing logic and how interchange economics evolve.",
+   "tags": [
+    "swipe fees",
+    "legislation",
+    "routing",
+    "interchange"
+   ]
+  },
+  {
+   "id": "fintechglobal-agentic-fraud-risk-consumer-trust",
+   "title": "Agentic fraud risk grows as consumer trust in AI lags",
+   "url": "https://fintech.global/2026/11/04/agentic-fraud-risk-grows-as-consumer-trust-in-ai-lags/",
+   "source": "FinTech Global",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-04",
+   "added": "2026-11-06",
+   "summary": "A SEON survey of US adults finds most already use AI agents weekly, yet about half are uneasy handing an agent their card details and many doubt they could spot a fraudulent agent request. Consumers mostly expect AI providers to bear the blame for agent-driven fraud, which signals that liability, agent identity signals and human escalation paths will shape how risk teams approach agentic transactions.",
+   "tags": [
+    "agentic commerce",
+    "consumer trust",
+    "survey",
+    "liability"
+   ]
+  },
+  {
+   "id": "paymentsdive-truist-bolsters-merchant-tools",
+   "title": "Truist bolsters merchant tools",
+   "url": "https://www.paymentsdive.com/news/truist-expands-merchant-tools-chris-ward/873617/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-03",
+   "added": "2026-11-06",
+   "summary": "Truist has launched faster merchant onboarding, new management features and a broader view of payment activity, pairing them with a point-of-sale system and a bank-owned digital wallet at online checkout. It is another sign that banks want to own the merchant relationship end to end, and that bank-backed wallets are steadily gaining checkout placement alongside the big tech wallets.",
+   "tags": [
+    "merchant acquiring",
+    "onboarding",
+    "wallets",
+    "banks"
+   ]
+  },
+  {
+   "id": "adyen-visa-payment-passkey-rollout",
+   "title": "Adyen Rolls Out Visa Payment Passkey to Advance the Future of Online Authentication",
+   "url": "https://www.adyen.com/press-and-media/adyen-visa-payment-passkey",
+   "source": "Adyen",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-10-29",
+   "added": "2026-11-06",
+   "summary": "Adyen is adding Visa Payment Passkey to its authentication module, so cardholders who enroll after issuer verification can confirm online card payments with device biometrics, starting in the UK with wider expansion planned for 2027. Network-level passkeys could reduce reliance on one-time passcodes and step-up challenges, changing how checkout flows, 3DS fallbacks and authentication-related decline handling are designed.",
+   "tags": [
+    "passkeys",
+    "authentication",
+    "3ds",
+    "checkout"
+   ]
+  },
+  {
+   "id": "stripe-mesh-proxy-data-plane-from-scratch",
+   "title": "Building a data plane from scratch: Stripe's own high-performance distributed proxy",
+   "url": "https://stripe.dev/blog/building-a-data-plane-from-scratch-stripes-own-high-performance-distributed-proxy",
+   "source": "Stripe",
+   "kind": "blog",
+   "topic": "engineering",
+   "published": "2026-08-26",
+   "added": "2026-11-06",
+   "summary": "Stripe describes replacing Envoy in its service mesh with a Go-based proxy that multiplexes a single connection per client and upstream host pair, cutting CPU use under load and latency roughly in half. For teams running latency-sensitive payment paths at scale, it is a detailed look at when connection fan-out and generic proxy overhead justify building a purpose-built data plane.",
+   "tags": [
+    "service mesh",
+    "proxy",
+    "latency",
+    "infrastructure"
+   ]
+  },
   {
    "id": "paymentsdive-block-964m-doj-pact",
    "title": "Block reaches $964M DOJ pact",
