@@ -1,6 +1,142 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-09",
  "items": [
+  {
+   "id": "paymentsdive-california-coinflip-crypto-atm",
+   "title": "California takes CoinFlip to task",
+   "url": "https://www.paymentsdive.com/news/california-coinflip-crypto-atm-enforcement-fraud/874002/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-06",
+   "added": "2026-11-09",
+   "summary": "State regulators are demanding millions in restitution from a crypto ATM operator after finding it failed for years to detect, report and curb scam activity at its kiosks. The case reinforces that operators of any cash-to-value channel are being held directly accountable for scam monitoring and victim losses, not just the fraudsters.",
+   "tags": [
+    "scams",
+    "crypto-atm",
+    "enforcement",
+    "restitution"
+   ]
+  },
+  {
+   "id": "paymentsjournal-digital-wallet-security-complex",
+   "title": "Why Digital Wallet Security Is Becoming More Complex",
+   "url": "https://www.paymentsjournal.com/why-digital-wallet-security-is-becoming-more-complex/",
+   "source": "PaymentsJournal",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-11-06",
+   "added": "2026-11-09",
+   "summary": "The piece argues that wallets centralize credentials in ways that create new weak points, from infostealer malware harvesting session cookies and wallet data to gaps when cards are reissued, and it looks ahead to quantum risk to public-key cryptography. It makes the case for continuous device, session and transaction checks instead of relying on a single strong login or tokenization alone.",
+   "tags": [
+    "wallets",
+    "infostealers",
+    "session-security",
+    "quantum"
+   ]
+  },
+  {
+   "id": "paymentsdive-shift4-signals-caution",
+   "title": "Shift4 signals caution",
+   "url": "https://www.paymentsdive.com/news/shift4-signals-caution-retail-restaurants-travel/873947/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-06",
+   "added": "2026-11-09",
+   "summary": "A large merchant acquirer lowered its full-year outlook, citing softer restaurant spending and weak travel-related retail demand, and expects the slowdown to persist into next year while it adds a pay-by-bank business. Softening volumes at a processor focused on hospitality and retail is an early read on holiday-season merchant health and on processors hedging with account-to-account options.",
+   "tags": [
+    "acquirers",
+    "earnings",
+    "pay-by-bank",
+    "restaurants"
+   ]
+  },
+  {
+   "id": "prnewswire-forter-marqeta-issuer-trust-intelligence",
+   "title": "Forter and Marqeta Collaborate to Bring Trust Intelligence and Better Payments Outcomes to More Issuers",
+   "url": "https://www.prnewswire.com/news-releases/forter-and-marqeta-collaborate-to-bring-trust-intelligence-and-better-payments-outcomes-to-more-issuers-302929663.html",
+   "source": "Forter",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-05",
+   "added": "2026-11-09",
+   "summary": "A merchant-side fraud vendor will feed its pre-authorization risk signals into an issuing platform's real-time decisioning and risk scoring, aiming to stop issuers from rejecting good customers they flag as fraud. It shows the industry pushing merchant context into the issuer authorization decision, a lever for cutting false declines that authorization and risk engineers should watch.",
+   "tags": [
+    "false-declines",
+    "issuers",
+    "authorization",
+    "data-sharing"
+   ]
+  },
+  {
+   "id": "paymentsjournal-iceland-a2a-payments-system",
+   "title": "Iceland Considers Its Own A2A Payments System",
+   "url": "https://www.paymentsjournal.com/iceland-considers-its-own-a2a-payments-system/",
+   "source": "PaymentsJournal",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-11-05",
+   "added": "2026-11-09",
+   "summary": "Iceland's central bank is studying a domestic account-to-account retail payment system built on shared standards, designed to run alongside the card networks and tied to planned participation in Europe's instant settlement service later in the decade. It is another data point in the sovereignty-driven spread of national instant rails that payment platforms will eventually need to route and risk-score.",
+   "tags": [
+    "a2a",
+    "instant-payments",
+    "sovereignty",
+    "tips"
+   ]
+  },
+  {
+   "id": "pymnts-payment-sovereignty-merchant-acceptance",
+   "title": "The Future of Payment Sovereignty Is Merchant Acceptance",
+   "url": "https://www.pymnts.com/opinion/2026/the-future-of-payment-sovereignty-is-merchant-acceptance/",
+   "source": "PYMNTS",
+   "kind": "article",
+   "topic": "retail",
+   "published": "2026-11-04",
+   "added": "2026-11-09",
+   "summary": "This opinion piece contends that domestic account-based wallets have largely won consumers and now hinge on getting accepted at physical checkouts, including NFC tap-to-pay in stores, as a complement to international cards. For retailers and acquirers, it signals more wallet and rail options arriving at the terminal, with implications for routing, acceptance cost and checkout design.",
+   "tags": [
+    "wallets",
+    "contactless",
+    "acceptance",
+    "domestic-schemes"
+   ]
+  },
+  {
+   "id": "paypal-what-we-learned-building-mcp-gateway",
+   "title": "What We Learned Building PayPal's MCP Gateway",
+   "url": "https://developer.paypal.com/community/blog/PayPal_MCP_Gateway",
+   "source": "PayPal",
+   "kind": "blog",
+   "topic": "engineering",
+   "published": "2026-10-08",
+   "added": "2026-11-09",
+   "summary": "Engineers describe a single gateway that fronts a catalog of roughly two hundred internal MCP servers, carrying caller identity and permissions on every tool call and exposing search-and-execute meta-tools so models never load the full catalog. The lesson that identity, authorization and onboarding checks were harder than request routing is directly relevant to anyone letting AI agents touch money-moving APIs.",
+   "tags": [
+    "mcp",
+    "agents",
+    "authorization",
+    "platform"
+   ]
+  },
+  {
+   "id": "fatf-scam-compounds-illicit-financial-flows",
+   "title": "New landmark report from anti-money laundering watchdog calls for global action to disrupt scam compounds",
+   "url": "https://www.fatf-gafi.org/en/news/combating-illicit-financial-flows-linked-to-scam-compounds.html",
+   "source": "FATF",
+   "kind": "report",
+   "topic": "fraud",
+   "published": "",
+   "added": "2026-11-09",
+   "summary": "The global AML standard setter traces how industrial-scale scam operations move victim money through banks, payment apps, crypto and telecom channels, and urges intervention both before a victim pays and after funds leave, with cross-border action within a few days of detection. For teams running scam and push-payment defenses, it is a strong signal that regulators expect pre-payment interdiction and faster cross-institution data sharing rather than after-the-fact recovery.",
+   "tags": [
+    "scams",
+    "aml",
+    "fatf",
+    "app-fraud"
+   ]
+  },
   {
    "id": "digitaltransactions-visa-agentic-commerce-benchmark",
    "title": "Visa Preps Agentic Commerce Benchmark And Forecasts a 4.5% Holiday Spending Jump",
