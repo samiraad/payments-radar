@@ -1,6 +1,91 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "items": [
+  {
+   "id": "pymnts-banks-spot-scams-that-pass-authentication",
+   "title": "How Banks Can Spot Scams That Pass Authentication",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/how-banks-can-spot-scams-that-pass-authentication/",
+   "source": "PYMNTS",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-11-10",
+   "added": "2026-11-10",
+   "summary": "A card-issuing platform executive explains that strong identity checks do not stop losses when a real customer is coached into approving a transfer or when a fabricated identity slipped through onboarding, and argues for behavioral monitoring across the whole account lifecycle plus narrowly scoped tokenized credentials. For teams running fraud systems, it is a reminder that authentication success is not a safe-transaction signal and that authorized-push scams need relationship-level models rather than per-payment rules.",
+   "tags": [
+    "scams",
+    "authentication",
+    "behavioral analytics",
+    "tokenization"
+   ]
+  },
+  {
+   "id": "digitaltransactions-payments-canada-real-time-rail",
+   "title": "Payments Canada Launches Its Real Time Rail",
+   "url": "https://www.digitaltransactions.net/payments-canada-launches-its-real-time-rail/",
+   "source": "Digital Transactions",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-11-09",
+   "added": "2026-11-10",
+   "summary": "Canada's national clearing operator has switched on an always-on instant clearing and settlement network with a handful of initial participants, larger banks to follow, and central fraud services such as confirmation of payee, a transaction risk score and shared fraud reporting built in at launch. Building fraud tooling into the rail from day one is a useful design reference for anyone integrating with instant payment schemes, where irrevocable settlement leaves no time for after-the-fact review.",
+   "tags": [
+    "real-time payments",
+    "canada",
+    "confirmation of payee",
+    "settlement"
+   ]
+  },
+  {
+   "id": "paymentsdive-global-payments-pricing-pressure",
+   "title": "Global Payments faces industry pricing pressure",
+   "url": "https://www.paymentsdive.com/news/global-payments-faces-industry-pricing-pressure/874128/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-09",
+   "added": "2026-11-10",
+   "summary": "A large merchant acquirer is reportedly adding a new annual fee for its acquired processing unit's merchant clients starting on December statements, even as it acknowledges tougher competition and analysts doubt it can raise prices easily while carrying heavy acquisition debt. Merchants and commerce teams watching acceptance costs should review processor statements for new line items and weigh how consolidation and debt loads are feeding into fee changes.",
+   "tags": [
+    "acquiring",
+    "merchant fees",
+    "processors",
+    "pricing"
+   ]
+  },
+  {
+   "id": "thepaypers-sta-mag-agentic-commerce-partnership",
+   "title": "Secure Technology Alliance and MAG partner on agentic commerce",
+   "url": "https://thepaypers.com/fraud-and-fincrime/news/secure-technology-alliance-and-mag-partner-on-agentic-commerce",
+   "source": "The Paypers",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-11-05",
+   "added": "2026-11-10",
+   "summary": "A payments-security industry body and a large-merchant trade group are joining forces to agree on how AI agents initiate, verify and complete purchases, covering false declines, the merchant data agent transactions should carry, and how a card is selected, and they are inviting model developers and fraud vendors to take part. Shared standards here would shape the fields, authentication steps and decline logic payment engineers must support, so it is worth tracking before competing agent protocols harden.",
+   "tags": [
+    "agentic commerce",
+    "standards",
+    "false declines",
+    "merchants"
+   ]
+  },
+  {
+   "id": "thepaypers-agentic-ecommerce-five-risks",
+   "title": "Agentic ecommerce: five things a new report reveals about risk",
+   "url": "https://thepaypers.com/fraud-and-fincrime/expert-views/agentic-ecommerce-five-things-a-new-report-reveals-about-risk",
+   "source": "The Paypers",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-11-03",
+   "added": "2026-11-10",
+   "summary": "This piece walks through five risk areas when AI agents shop for consumers, from vanishing device and behavioral signals and third-party versus merchant-owned agents to prompt injection, agent takeover, unproven intent verification and murky chargeback liability, citing research that a large share of the data fraud models rely on was absent from one agent checkout flow. Risk teams should expect existing models to lose features on agent traffic and plan for new signals and dispute rules before agent volume grows.",
+   "tags": [
+    "agentic commerce",
+    "fraud signals",
+    "chargebacks",
+    "prompt injection"
+   ]
+  },
   {
    "id": "paymentsdive-california-coinflip-crypto-atm",
    "title": "California takes CoinFlip to task",
