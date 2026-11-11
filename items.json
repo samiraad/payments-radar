@@ -1,6 +1,123 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "items": [
+  {
+   "id": "paymentsdive-cash-app-payment-bandanas",
+   "title": "Block's Cash App weaves payment tech into bandanas",
+   "url": "https://www.paymentsdive.com/news/blocks-cash-app-weaves-payment-tech-into-bandanas/874328/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-10",
+   "added": "2026-11-11",
+   "summary": "Cash App is launching a designer bandana with a tap-to-pay tag sewn into it, following an earlier payment-enabled wand, as wallet providers push contactless credentials beyond cards and phones. Novel form factors widen the range of tokenized devices that show up at terminals, which matters for acceptance testing, token lifecycle management and lost-device fraud handling.",
+   "tags": [
+    "contactless",
+    "wearables",
+    "wallets",
+    "tokenization"
+   ]
+  },
+  {
+   "id": "reliaquest-retail-ransomware-phishing-initial-access",
+   "title": "Retail Trade Sees a 30% Ransomware Increase. Here's How Intrusions Start.",
+   "url": "https://reliaquest.com/blog/retail-trade-sees-a-30-percent-ransomware-increase-how-intrusions-start",
+   "source": "ReliaQuest",
+   "kind": "report",
+   "topic": "fraud",
+   "published": "2026-11-09",
+   "added": "2026-11-11",
+   "summary": "ReliaQuest's quarterly retail threat review finds attacks on retailers up about 31%, with phishing now behind 39% of initial access and lookalike domains dominating brand-impersonation alerts. Heading into peak season, it argues that spoofed login and payment pages should be treated as an account-takeover and access risk, linking domain takedowns with identity and fraud signals.",
+   "tags": [
+    "phishing",
+    "retail",
+    "brand impersonation",
+    "account takeover"
+   ]
+  },
+  {
+   "id": "merchantfraudjournal-chargeflow-non-delivery-black-friday",
+   "title": "Chargeflow Data Shows Non-Delivery Claims Overtake Fraud as Top Chargeback Category on Black Friday Weekend",
+   "url": "https://www.merchantfraudjournal.com/chargeflow-data-shows-non-delivery-claims-overtake-fraud-as-top-chargeback-category-on-black-friday-weekend/",
+   "source": "Merchant Fraud Journal",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-09",
+   "added": "2026-11-11",
+   "summary": "An analysis of about three million disputes across three holiday seasons found that item-not-received claims jump to roughly a third of chargebacks over the Black Friday weekend, overtaking fraud claims, and that disputes trail purchases by weeks. Dispute and risk teams can use this to plan peak-season staffing and to capture carrier tracking and delivery evidence at fulfillment time, when it is cheapest to collect.",
+   "tags": [
+    "chargebacks",
+    "disputes",
+    "holiday",
+    "friendly fraud"
+   ]
+  },
+  {
+   "id": "grocerydive-usda-wic-online-ordering",
+   "title": "USDA greenlights WIC online ordering",
+   "url": "https://www.grocerydive.com/news/usda-greenlights-wic-online-ordering/874106/",
+   "source": "Grocery Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-09",
+   "added": "2026-11-11",
+   "summary": "A final USDA rule lets WIC benefits be used for online grocery orders starting in December, lifting a long-standing bar on internet-based vendors as states migrate the program to EBT cards. Grocers and platforms will need new tender handling for approved-product lists, split tenders and benefit balances online, a payments build that resembles SNAP online but with stricter item-level rules.",
+   "tags": [
+    "wic",
+    "ebt",
+    "online grocery",
+    "regulation"
+   ]
+  },
+  {
+   "id": "digitaltransactions-affirm-card-users-grow-112",
+   "title": "Affirm Card Users Grow 112% as Its Share of Volume Tops 23%",
+   "url": "https://www.digitaltransactions.net/affirm-card-users-grow-112-as-its-share-of-volume-tops-23/",
+   "source": "Digital Transactions",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-06",
+   "added": "2026-11-11",
+   "summary": "Affirm's debit card roughly doubled its active users to about six million in the latest quarter and now carries close to a quarter of the company's merchandise volume. The shift shows installment lending moving from checkout integrations into general-purpose card rails, so more pay-over-time spend will arrive at merchants as ordinary card transactions rather than through a separate BNPL button.",
+   "tags": [
+    "bnpl",
+    "debit card",
+    "earnings"
+   ]
+  },
+  {
+   "id": "cso-credit-mutuel-arkea-supply-chain-attack",
+   "title": "French banking group hit by supply chain cyberattack",
+   "url": "https://www.csoonline.com/article/4245357/french-banking-group-hit-by-supply-chain-cyberattack.html",
+   "source": "CSO Online",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-05",
+   "added": "2026-11-11",
+   "summary": "Attackers used a third-party provider's platform to reach an internal account at French bank Crédit Mutuel Arkéa and moved roughly €100 million or more to other institutions before the bank paused some transactions and froze part of the funds. The case shows how vendor access can bypass customer-facing fraud controls entirely, making outbound payment monitoring and third-party access governance as important as transaction scoring.",
+   "tags": [
+    "supply chain",
+    "bank fraud",
+    "third-party risk"
+   ]
+  },
+  {
+   "id": "checkout-com-ai-payment-optimization-system",
+   "title": "How we built an AI payment optimization system that gets smarter every day",
+   "url": "https://www.checkout.com/blog/smart-ai-payment-optimization",
+   "source": "Checkout.com",
+   "kind": "blog",
+   "topic": "engineering",
+   "published": "2026-07-13",
+   "added": "2026-11-11",
+   "summary": "Checkout.com describes how its acceptance-optimization engine tunes routing, authentication and fraud decisions per issuer and market, running each change as a controlled experiment with statistical gates and having an agent layer propose new tests for expert review. It is a useful reference design for anyone trying to lift authorization rates safely, since it shows how to separate experimentation, promotion and rollback rather than shipping global rule changes.",
+   "tags": [
+    "authorization rates",
+    "experimentation",
+    "machine learning",
+    "routing"
+   ]
+  },
   {
    "id": "pymnts-banks-spot-scams-that-pass-authentication",
    "title": "How Banks Can Spot Scams That Pass Authentication",
