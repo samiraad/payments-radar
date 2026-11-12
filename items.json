@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "items": [
+  {
+   "id": "paymentsdive-fiserv-preps-debit-network-sale",
+   "title": "Fiserv preps debit network sale",
+   "url": "https://www.paymentsdive.com/news/fiserv-preps-debit-network-sale/874395/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-11",
+   "added": "2026-11-12",
+   "summary": "Fiserv plans to consolidate clients onto one of its two PIN debit networks, Star or Accel, and either sell or wind down the other, while also closing a set of smaller underperforming units. Fewer competing debit networks could change routing options, unregulated debit costs and network-choice strategies for merchants that rely on least-cost routing.",
+   "tags": [
+    "debit networks",
+    "routing",
+    "fiserv"
+   ]
+  },
+  {
+   "id": "paymentsjournal-automation-first-party-fraud",
+   "title": "How Automation Is Changing the Fight Against First-Party Fraud",
+   "url": "https://www.paymentsjournal.com/how-automation-is-changing-the-fight-against-first-party-fraud/",
+   "source": "PaymentsJournal",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-11-11",
+   "added": "2026-11-12",
+   "summary": "Industry analysts argue that dispute volumes driven by first-party misuse have outgrown manual review, and that automated investigations weighing customer and dispute history should handle most cases while people focus on exceptions. For teams running dispute operations, it frames chargeback handling as a data and decisioning problem rather than a staffing one.",
+   "tags": [
+    "first-party fraud",
+    "disputes",
+    "automation"
+   ]
+  },
+  {
+   "id": "fintechglobal-banks-fraud-tactics-converge",
+   "title": "Banks face growing fraud risks as criminal tactics converge",
+   "url": "https://fintech.global/2026/11/11/banks-face-growing-fraud-risks-as-criminal-tactics-converge/",
+   "source": "FinTech Global",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-11-11",
+   "added": "2026-11-12",
+   "summary": "Drawing on a ZIGRAM analysis, the piece maps how identity theft, synthetic identities, mule networks and manipulated authorized payments now blend into single campaigns that stage-by-stage checks miss. It makes the case for linking behavioral, device and beneficiary signals across the customer lifecycle, especially as instant payments shrink the window to intervene.",
+   "tags": [
+    "mule networks",
+    "synthetic identity",
+    "instant payments"
+   ]
+  },
+  {
+   "id": "paymentsdive-states-keep-targeting-card-fee-relief",
+   "title": "States keep targeting card fee relief",
+   "url": "https://www.paymentsdive.com/news/states-keep-targeting-card-fee-relief/874260/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-10",
+   "added": "2026-11-12",
+   "summary": "More than 30 state bills this year have tried to cut merchant interchange costs, mostly by excluding sales tax and tips from the fee base, even as the court fight over the Illinois law heads to an appeals hearing in early 2027. If these measures spread, acquirers and merchants would need to split tax and gratuity amounts out of authorization and settlement data state by state.",
+   "tags": [
+    "interchange",
+    "state law",
+    "swipe fees"
+   ]
+  },
+  {
+   "id": "pymnts-global-payments-visa-idx-authentication",
+   "title": "Global Payments Expands Authentication Platform With Visa Data-Sharing Tool",
+   "url": "https://www.pymnts.com/authentication/2026/global-payments-expands-authentication-platform-with-visa-data-sharing-tool/",
+   "source": "PYMNTS",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-11-09",
+   "added": "2026-11-12",
+   "summary": "Global Payments has plugged Visa's Intelligent Data Exchange API into its adaptive authentication service so merchants can pass richer transaction context to issuers at authorization time. It is another sign that sending more data with each authorization, rather than adding step-up challenges, is becoming a main lever for lifting approval rates and cutting false declines.",
+   "tags": [
+    "authorization",
+    "data sharing",
+    "false declines"
+   ]
+  },
   {
    "id": "paymentsdive-cash-app-payment-bandanas",
    "title": "Block's Cash App weaves payment tech into bandanas",
