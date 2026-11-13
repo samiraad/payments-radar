@@ -1,6 +1,108 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "items": [
+  {
+   "id": "paymentsdive-merchants-sue-feds-illinois-card-fee-law",
+   "title": "Merchants sue feds over Illinois card fee law",
+   "url": "https://www.paymentsdive.com/news/merchants-sue-feds-over-illinois-card-fee-law/874494/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-12",
+   "added": "2026-11-13",
+   "summary": "A coalition of retail and grocery trade groups has filed suit against the OCC and NCUA, arguing the regulators skipped required rulemaking steps when they moved to preempt the Illinois ban on interchange charged against sales tax and tips. With the state law now pushed to mid-2027 and an appeal pending, acquirers, processors and merchants face continued uncertainty about whether they must split tax and tip amounts out of interchange calculations.",
+   "tags": [
+    "interchange",
+    "illinois",
+    "litigation",
+    "preemption"
+   ]
+  },
+  {
+   "id": "paymentsdive-ftc-aims-to-better-fight-scams",
+   "title": "FTC aims to better fight scams",
+   "url": "https://www.paymentsdive.com/news/ftc-aims-to-better-fight-scams/874509/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-12",
+   "added": "2026-11-13",
+   "summary": "The FTC is collecting public input through month-end on a proposal to extend its impersonation rule so search engines, social networks and marketplaces bear more responsibility for scam ads they help optimize. If adopted, it could shift some scam-loss liability away from banks and payment providers, which currently absorb much of the cost of fraud that originates on platforms.",
+   "tags": [
+    "scams",
+    "ftc",
+    "impersonation",
+    "platform liability"
+   ]
+  },
+  {
+   "id": "paymentsjournal-ai-powered-rise-synthetic-identity-fraud",
+   "title": "Identity Crisis: The AI-Powered Rise of Synthetic Identity Fraud",
+   "url": "https://www.paymentsjournal.com/identity-crisis-the-ai-powered-rise-of-synthetic-identity-fraud/",
+   "source": "PaymentsJournal",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-11-12",
+   "added": "2026-11-13",
+   "summary": "Drawing on a panel of identity and fraud analysts, the piece describes how generative AI lets fraudsters mass-produce fabricated customer profiles that build clean history before cashing out, often getting booked as credit losses rather than fraud. For risk teams it argues for continuous identity assessment across the account lifecycle, using link analysis and consortium data to catch clusters that look benign one account at a time.",
+   "tags": [
+    "synthetic identity",
+    "generative ai",
+    "onboarding",
+    "link analysis"
+   ]
+  },
+  {
+   "id": "philstar-retailers-balance-fraud-control-checkout-1111",
+   "title": "Philippine retailers balance fraud control, smooth checkout for 11.11 rush",
+   "url": "https://philstar.com/the-freeman/cebu-business/2026/11/12/2569613/philippine-retailers-balance-fraud-control-smooth-checkout-1111-rush",
+   "source": "The Freeman (Philstar)",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-12",
+   "added": "2026-11-13",
+   "summary": "Ahead of big shopping-festival peaks, a regional payment gateway urges merchants to tune fraud rules to expected traffic surges instead of tightening controls across the board, while watching for repeated declines across many cards as a sign of card testing. It is a practical reminder that peak-season rule changes need pre-planning with the processor and close monitoring of decline rates, since blunt controls cost legitimate sales.",
+   "tags": [
+    "peak season",
+    "card testing",
+    "false declines",
+    "checkout"
+   ]
+  },
+  {
+   "id": "forbes-shinkin-outage-lessons-us-banks",
+   "title": "Over 100 Banks Disrupted: What The Shinkin Outage Teaches U.S. Banks",
+   "url": "https://www.forbes.com/sites/jeffgapusan/2026/11/09/over-100-banks-disrupted-what-the-shinkin-outage-teaches-us-banks/",
+   "source": "Forbes",
+   "kind": "article",
+   "topic": "engineering",
+   "published": "2026-11-09",
+   "added": "2026-11-13",
+   "summary": "An equipment failure in a shared processing center knocked out ATMs, branch transactions and some online banking for thousands of Japanese branches for over five hours, and the author compares it with a past U.S. processor outage. The takeaway for payment platform owners is to map dependencies on shared third-party infrastructure and run joint failure drills that cover multiple interconnected systems, not just their own stack.",
+   "tags": [
+    "resilience",
+    "outage",
+    "shared infrastructure",
+    "third-party risk"
+   ]
+  },
+  {
+   "id": "kernel-payments-for-browser-agents",
+   "title": "payments for browser agents, powered by KERNEL",
+   "url": "https://www.kernel.sh/blog/agentic-payments",
+   "source": "Kernel",
+   "kind": "blog",
+   "topic": "engineering",
+   "published": "2026-09-10",
+   "added": "2026-11-13",
+   "summary": "The post explains a design where AI browser agents fill checkout forms with vault aliases, and the hosted browser intercepts the outgoing payment request to verify session bindings and swap in a single-use or merchant-and-amount-bound credential. It is a concrete pattern for keeping card data out of agent context, logs and recordings, which matters for PCI scope as agents start completing purchases on ordinary merchant checkouts.",
+   "tags": [
+    "agentic commerce",
+    "pci",
+    "tokenization",
+    "browser agents"
+   ]
+  },
   {
    "id": "paymentsdive-fiserv-preps-debit-network-sale",
    "title": "Fiserv preps debit network sale",
