@@ -1,6 +1,142 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-16",
  "items": [
+  {
+   "id": "thepaypers-openai-chatgpt-wallet-agentic-payments",
+   "title": "OpenAI launches ChatGPT Wallet for agentic payments in the US",
+   "url": "https://thepaypers.com/payments/news/openai-launches-chatgpt-wallet-for-agentic-payments-in-the-us",
+   "source": "The Paypers",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-11-16",
+   "added": "2026-11-16",
+   "summary": "OpenAI has begun a limited US rollout of a wallet, built with the three big card networks, that lets its agents buy on a user's behalf: each purchase is confirmed biometrically, recorded as an authorization, and paid with a network token so neither agent nor merchant sees the card number. It also published guidance asking merchants to recognize signed agent traffic and is working with fraud and processing vendors so legitimate agent orders are not declined, which makes agent identity, bot rules and token-based authorization flows a near-term integration concern.",
+   "tags": [
+    "agentic-commerce",
+    "tokenization",
+    "wallets",
+    "authentication"
+   ]
+  },
+  {
+   "id": "retailinsider-thales-bots-retail-automated-systems",
+   "title": "How Cybercriminals Are Targeting Retailers' Automated Systems Ahead of Black Friday: Thales",
+   "url": "https://retail-insider.com/retail-insider/2026/11/how-cybercriminals-are-targeting-retailers-automated-systems-ahead-of-black-friday-thales/",
+   "source": "Retail Insider",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-11-16",
+   "added": "2026-11-16",
+   "summary": "Drawing on Thales bot research, the article warns that attackers increasingly abuse the business logic of inventory, pricing, checkout and fulfillment systems, for example by hoarding stock in carts, with retail drawing the largest share of AI-driven bot attacks and a big share aimed at APIs. For peak season it argues for API-level monitoring, least-privilege access for automated services, and watching operational anomalies, not just payment signals.",
+   "tags": [
+    "bots",
+    "business-logic-abuse",
+    "api-security",
+    "black-friday"
+   ]
+  },
+  {
+   "id": "paymentsdive-stripe-awaits-payoff-tempo-chain",
+   "title": "Stripe awaits payoff on Tempo chain",
+   "url": "https://www.paymentsdive.com/news/stripe-awaits-payoff-on-tempo-chain/874618/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-11-13",
+   "added": "2026-11-16",
+   "summary": "In an interview, a Tempo executive explains why the stablecoin chain backed by Stripe and Paradigm reserves most of its block space for payments and says real usage is in cross-border flows such as remittances, payroll and marketplace payouts, while most agent-initiated purchases still run on cards. It is a useful read on where blockchain settlement is being positioned alongside existing rails and what that could mean for payout and treasury architecture.",
+   "tags": [
+    "stablecoins",
+    "payouts",
+    "cross-border",
+    "architecture"
+   ]
+  },
+  {
+   "id": "pymnts-jpmorgan-stops-ai-agents-credit-cards",
+   "title": "JPMorgan Stops AI Agents From Using Customer Credit Cards",
+   "url": "https://www.pymnts.com/news/2026/jpmorgan-stops-ai-agents-from-using-customer-credit-cards/",
+   "source": "PYMNTS",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-13",
+   "added": "2026-11-16",
+   "summary": "Citing a Wall Street Journal report, the piece says one of the largest US issuers is blocking AI agents from shopping with raw card numbers, while wallet providers route around this with single-use virtual cards and other banks plan to treat agent charges like those made by a trusted family member. Issuers are clearly splitting on how to authorize and assign liability for agent purchases, which affects decline rates, dispute handling and acceptance costs for anyone accepting agent traffic.",
+   "tags": [
+    "agentic-commerce",
+    "issuers",
+    "liability",
+    "virtual-cards"
+   ]
+  },
+  {
+   "id": "pymnts-stolen-cards-fake-dumpster-rental-ads",
+   "title": "Scammers Use Stolen Cards to Fulfill Fake Dumpster Rental Ads",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/scammers-use-stolen-cards-to-fulfill-fake-dumpster-rental-ads/",
+   "source": "PYMNTS",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-13",
+   "added": "2026-11-16",
+   "summary": "A rental broker describes a triangulation scheme in which fraudsters sell cheap services on online marketplaces, collect peer-to-peer payments from victims, then book the real job with stolen cards, leaving the merchant with chargebacks and unrecoverable costs; flagged orders rose roughly twentyfold in two years. The case shows how triangulation fraud reaches service businesses with real fulfillment costs and why signals like many cards tried per order still matter.",
+   "tags": [
+    "triangulation-fraud",
+    "chargebacks",
+    "stolen-cards",
+    "marketplaces"
+   ]
+  },
+  {
+   "id": "supermarketnews-family-dollar-63m-overcharging",
+   "title": "Family Dollar settles for $63M in overcharging allegation",
+   "url": "https://www.supermarketnews.com/grocery-operations/family-dollar-settles-for-63m-in-overcharging-allegation",
+   "source": "Supermarket News",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-13",
+   "added": "2026-11-16",
+   "summary": "The discount chain agreed to a $63 million settlement with the FTC and states over claims that registers charged more than shelf and ad prices and that app coupons often failed to apply, and it must run an independently assessed pricing accuracy program. Regulators are treating price integrity at the point of sale as a compliance obligation, putting pressure on the data flow between pricing, promotions and checkout systems.",
+   "tags": [
+    "pricing-accuracy",
+    "ftc",
+    "pos",
+    "coupons"
+   ]
+  },
+  {
+   "id": "pymnts-gen-z-payment-perks-grocery-checkout",
+   "title": "Gen Z Gives Payment Perks More Weight at Grocery Checkout",
+   "url": "https://www.pymnts.com/consumer-insights/2026/gen-z-gives-payment-perks-more-weight-at-grocery-checkout/",
+   "source": "PYMNTS",
+   "kind": "research",
+   "topic": "retail",
+   "published": "2026-11-13",
+   "added": "2026-11-16",
+   "summary": "A survey of about 2,100 US adults finds younger grocery shoppers far more likely than older ones to prioritize payment-linked value such as cash back, discounts and pay-over-time, and to say payment options shape where they shop, even though speed and using a preferred method still lead overall. For grocers, tender mix and checkout incentives look increasingly like a lever on store choice for younger customers.",
+   "tags": [
+    "grocery",
+    "consumer-survey",
+    "rewards",
+    "checkout"
+   ]
+  },
+  {
+   "id": "pymnts-brands-checkout-rewards-rules",
+   "title": "44% of Brands Want to Set the Rules for Checkout Rewards",
+   "url": "https://www.pymnts.com/news/retail/2026/44percent-brands-want-to-set-the-rules-for-checkout-rewards/",
+   "source": "PYMNTS",
+   "kind": "research",
+   "topic": "retail",
+   "published": "2026-11-09",
+   "added": "2026-11-16",
+   "summary": "A survey of consumer packaged goods brands shows strong interest in funding basket-matched offers at the register, but many want control over eligible items and rules, along with incrementality measurement and safeguards against misuse. Brand-funded promotions applied at checkout require item-level data and anti-abuse controls in the payment and POS stack.",
+   "tags": [
+    "checkout-promotions",
+    "cpg",
+    "pos",
+    "promotion-abuse"
+   ]
+  },
   {
    "id": "paymentsdive-merchants-sue-feds-illinois-card-fee-law",
    "title": "Merchants sue feds over Illinois card fee law",
