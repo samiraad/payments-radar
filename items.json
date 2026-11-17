@@ -1,6 +1,102 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "items": [
+  {
+   "id": "paymentsdive-mastercard-pilots-ai-travel-purchases",
+   "title": "Mastercard pilots AI travel purchases",
+   "url": "https://www.paymentsdive.com/news/mastercard-pilots-ai-travel-purchases/874746/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-11-16",
+   "added": "2026-11-17",
+   "summary": "Mastercard ran a trial in which an AI agent searched, reserved and paid for a flight, with the network checking the amount against the shopper's recorded consent and pausing for fresh approval when it was missing. The consent-matching and token-swap pattern offers a concrete reference design for anyone building mandate checks into agent payment flows, especially in high-fraud verticals like travel.",
+   "tags": [
+    "agentic commerce",
+    "consent",
+    "travel"
+   ]
+  },
+  {
+   "id": "pymnts-occ-extra-payment-checks-ai-impersonators",
+   "title": "OCC Flags Extra Payment Checks as AI Aids Impersonators",
+   "url": "https://www.pymnts.com/news/banking/2026/occ-flags-extra-payment-checks-as-ai-aids-impersonators/",
+   "source": "PYMNTS",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-16",
+   "added": "2026-11-17",
+   "summary": "The OCC's latest semiannual risk report warns that AI is making impersonation, social engineering and account takeover faster and larger in scale, and urges controls such as human review, out-of-band verification and velocity monitoring. Because callbacks can confirm a request came from the customer without revealing that the customer is being scammed, fraud teams may need behavioral and payee-risk signals rather than identity checks alone.",
+   "tags": [
+    "account takeover",
+    "scams",
+    "regulation"
+   ]
+  },
+  {
+   "id": "thepaypers-payments-association-ai-fraud-top-rising-risk",
+   "title": "Payments Association report finds AI-enabled fraud top rising risk",
+   "url": "https://thepaypers.com/fraud-and-fincrime/news/payments-association-report-finds-ai-enabled-fraud-top-rising-risk",
+   "source": "The Paypers",
+   "kind": "report",
+   "topic": "fraud",
+   "published": "2026-11-16",
+   "added": "2026-11-17",
+   "summary": "A UK industry report ranks AI-enabled fraud as the threat growing fastest relative to firms' ability to respond, and finds many financial crime leaders lack practical guidance for governing their own AI models. Its recommendations, such as a named owner for each model and tracking both missed fraud and wrongly blocked payments, apply to any team running ML in a fraud stack.",
+   "tags": [
+    "fraud ml",
+    "ai governance",
+    "data sharing"
+   ]
+  },
+  {
+   "id": "pymnts-visa-mastercard-hearing-premium-card-pilots",
+   "title": "Visa and Mastercard Hearing Puts Premium Card Pilots on the Line",
+   "url": "https://pymnts.com/credit-cards/2026/visa-and-mastercard-hearing-puts-premium-card-pilots-on-the-line",
+   "source": "PYMNTS",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-16",
+   "added": "2026-11-17",
+   "summary": "A federal judge heard arguments on final approval of the networks' swipe-fee settlement, which large retailers oppose, and ended the session without a ruling. If approved, merchants could run time-limited store pilots declining premium or commercial cards, which would require acceptance logic, POS messaging and analytics to measure savings against lost sales.",
+   "tags": [
+    "swipe fees",
+    "litigation",
+    "card acceptance"
+   ]
+  },
+  {
+   "id": "paymentsdive-pos-competition-lightens-up",
+   "title": "POS competition lightens up",
+   "url": "https://www.paymentsdive.com/news/pos-competition-lightens-up/874648/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-16",
+   "added": "2026-11-17",
+   "summary": "A Shift4 executive said price competition among restaurant point-of-sale providers has eased as loss-making venture-backed entrants have exited and the large public players focus on profit. Steadier pricing among major POS vendors could change how merchants negotiate processing and hardware deals and how much platform consolidation continues.",
+   "tags": [
+    "pos",
+    "pricing",
+    "restaurants"
+   ]
+  },
+  {
+   "id": "signifyd-holiday-ecommerce-tracker-2026",
+   "title": "Holiday Ecommerce Tracker 2026: Sales, Fraud & Agentic Data",
+   "url": "https://www.signifyd.com/holiday-ecommerce-data-tracker/",
+   "source": "Signifyd",
+   "kind": "report",
+   "topic": "fraud",
+   "published": "",
+   "added": "2026-11-17",
+   "summary": "Signifyd's weekly-updated holiday tracker projects about a fifth more fraud attempts this season, with the average attempted order value falling. A shift toward more, smaller fraudulent orders suggests rules tuned on order size may underperform during peak, so velocity and pattern-based signals deserve extra attention.",
+   "tags": [
+    "holiday",
+    "ecommerce fraud",
+    "benchmarks"
+   ]
+  },
   {
    "id": "thepaypers-openai-chatgpt-wallet-agentic-payments",
    "title": "OpenAI launches ChatGPT Wallet for agentic payments in the US",
