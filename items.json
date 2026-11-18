@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "items": [
+  {
+   "id": "paymentsjournal-optimizely-hack-supply-chain-risk",
+   "title": "Optimizely Hack Underscores Risks of Supply Chain Attacks",
+   "url": "https://www.paymentsjournal.com/optimizely-hack-underscores-risks-of-supply-chain-attacks/",
+   "source": "PaymentsJournal",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-11-17",
+   "added": "2026-11-18",
+   "summary": "Attackers abused a flaw in a widely used experimentation platform to push malicious script through its CDN onto many large websites, aiming to lift card details from forms and swap crypto wallet addresses. Any third-party JavaScript on checkout pages is a skimming vector, so script inventories, content security policies and payment-page integrity monitoring deserve a fresh look before peak season.",
+   "tags": [
+    "skimming",
+    "supply chain",
+    "checkout security"
+   ]
+  },
+  {
+   "id": "plaid-introducing-agent-detection",
+   "title": "Introducing Agent Detection: building trust in the age of agentic finance",
+   "url": "https://plaid.com/blog/agent-detection-agentic-finance/",
+   "source": "Plaid",
+   "kind": "blog",
+   "topic": "fraud",
+   "published": "2026-11-16",
+   "added": "2026-11-18",
+   "summary": "Plaid launched a service that classifies whether a session is driven by a person or an AI agent, and which AI provider sits behind it, using device, behavioral, automation and network signals tuned for logins and money movement. As agent traffic grows, risk systems need to tell legitimate delegated automation apart from hostile bots rather than blocking all non-human sessions.",
+   "tags": [
+    "ai agents",
+    "bot detection",
+    "identity"
+   ]
+  },
+  {
+   "id": "merchantfraudjournal-rain-agent-vaults-single-use-cards",
+   "title": "Rain Launches Agent Vaults With Single-Use Cards for AI Agent Payments",
+   "url": "https://www.merchantfraudjournal.com/rain-launches-agent-vaults-with-single-use-cards-for-ai-agent-payments/",
+   "source": "Merchant Fraud Journal",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-11-16",
+   "added": "2026-11-18",
+   "summary": "Rain introduced prefunded vaults that let AI agents pay only with one-time virtual cards whose amount, merchant and expiry are fixed at issuance, with optional human approval above a set threshold. The design is a concrete pattern for scoping agent spending at the credential layer, though dispute handling for stablecoin-funded balances and prompt-injected purchases within limits remain open problems.",
+   "tags": [
+    "agentic commerce",
+    "virtual cards",
+    "spend controls"
+   ]
+  },
+  {
+   "id": "thepaypers-fingerprint-fraud-score",
+   "title": "Fingerprint launches Fraud Score for customer-trained fraud models",
+   "url": "https://thepaypers.com/fraud-and-fincrime/news/fingerprint-launches-fraud-score-for-customer-trained-fraud-models",
+   "source": "The Paypers",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-11",
+   "added": "2026-11-18",
+   "summary": "Device intelligence vendor Fingerprint now builds and continually retrains a separate fraud model for each client, combining its device signals with that client's labeled outcomes across payment fraud, account takeover and promo abuse. It reflects a broader shift toward managed, per-tenant fraud ML, which raises practical questions about label quality, feedback loops and how vendor scores fit into in-house decisioning.",
+   "tags": [
+    "fraud ml",
+    "device intelligence",
+    "account takeover"
+   ]
+  },
+  {
+   "id": "visa-fall-2026-biannual-threats-report",
+   "title": "Biannual Threats Report – Fall 2026",
+   "url": "https://corporate.visa.com/content/dam/VCOM/corporate/visa-perspectives/newsroom/documents/visa-fall-biannual-threats-report-2026.pdf",
+   "source": "Visa",
+   "kind": "report",
+   "topic": "fraud",
+   "published": "",
+   "added": "2026-11-18",
+   "summary": "Visa's risk team finds that criminals are using AI to speed up and scale familiar attacks, with third-party processors and ecommerce platforms singled out as targets because one breach exposes many downstream merchants. Teams running authorization, token provisioning and checkout should expect adversaries that probe their specific controls and tune amounts and timing to slip past static rules.",
+   "tags": [
+    "threat intel",
+    "third-party risk",
+    "ai fraud"
+   ]
+  },
   {
    "id": "paymentsdive-mastercard-pilots-ai-travel-purchases",
    "title": "Mastercard pilots AI travel purchases",
