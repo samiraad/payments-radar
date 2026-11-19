@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "items": [
+  {
+   "id": "digitaltransactions-visa-agentic-ready-acquirers",
+   "title": "Visa Widens Agentic Ready Beyond Issuers to Include Acquirers",
+   "url": "https://www.digitaltransactions.net/visa-widens-agentic-ready-beyond-issuers-to-include-acquirers/",
+   "source": "Digital Transactions",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-11-18",
+   "added": "2026-11-19",
+   "summary": "Visa is opening its program for testing and validating agent-initiated transactions to acquirers, processors and merchants, bringing participation to more than 175 companies across 45 countries. It signals that the acceptance side of the stack will soon need to handle agent identity, permissions and routing in certification-grade form, not just in pilots.",
+   "tags": [
+    "agentic commerce",
+    "acquirers",
+    "certification",
+    "card networks"
+   ]
+  },
+  {
+   "id": "paymentsdive-klarna-launches-ai-concierge",
+   "title": "Klarna launches AI 'concierge'",
+   "url": "https://www.paymentsdive.com/news/klarna-launches-ai-concierge/875033/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-18",
+   "added": "2026-11-19",
+   "summary": "The pay-later provider is rolling out an invite-only personal assistant that can shop and handle errands over messaging apps, but every purchase still requires the user to approve it, alongside a push into longer-term installment loans. It adds another consumer agent to a crowded field and shows human-in-the-loop approval emerging as the default guardrail for agent-driven checkout.",
+   "tags": [
+    "agentic commerce",
+    "bnpl",
+    "ai assistants"
+   ]
+  },
+  {
+   "id": "entrust-2027-identity-fraud-report",
+   "title": "Entrust 2027 Identity Fraud Report: Professional Fraud Networks Drive Record Growth in AI-Fortified and Human-Targeted Attacks",
+   "url": "https://www.entrust.com/company/newsroom/2027-identity-fraud-report",
+   "source": "Entrust",
+   "kind": "report",
+   "topic": "fraud",
+   "published": "2026-11-17",
+   "added": "2026-11-19",
+   "summary": "Drawing on a year of identity verification traffic, the report shows crude ID fraud declining while sophisticated forgeries, deepfakes and media injection attacks surge, and social engineering emerges as the fastest-growing method. Anyone owning onboarding, account recovery or step-up authentication should treat liveness checks alone as insufficient and layer in device intelligence and injection detection.",
+   "tags": [
+    "identity verification",
+    "deepfakes",
+    "injection attacks",
+    "account takeover"
+   ]
+  },
+  {
+   "id": "lightspark-introducing-agent-accounts",
+   "title": "Introducing Agent Accounts: money accounts built for AI agents",
+   "url": "https://www.lightspark.com/news/lightspark/introducing-lightspark-agent-accounts",
+   "source": "Lightspark",
+   "kind": "blog",
+   "topic": "engineering",
+   "published": "2026-11-17",
+   "added": "2026-11-19",
+   "summary": "The launch describes multi-currency accounts that AI agents can spend from within owner-set limits and approval rules, using single-use virtual cards or vaulted card references for card purchases and instant rails for payouts. It is a concrete reference design for scoping agent spending authority, keeping raw card data away from agents and logging every agent payment.",
+   "tags": [
+    "agentic payments",
+    "virtual cards",
+    "spend controls",
+    "real-time payments"
+   ]
+  },
+  {
+   "id": "google-wallet-available-ios-united-states",
+   "title": "Google Wallet is now available on iOS in the U.S.",
+   "url": "https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/",
+   "source": "Google",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-17",
+   "added": "2026-11-19",
+   "summary": "Google's wallet app now runs on iPhone in the U.S., covering passes, loyalty cards, receipts and stored cards for online checkout, though contactless tap-to-pay is not supported. Merchants and checkout teams can expect more Google Pay usage on web and in-app flows from iOS users while in-store contactless on iPhone stays with the native wallet.",
+   "tags": [
+    "digital wallets",
+    "google pay",
+    "ios",
+    "checkout"
+   ]
+  },
   {
    "id": "paymentsjournal-optimizely-hack-supply-chain-risk",
    "title": "Optimizely Hack Underscores Risks of Supply Chain Attacks",
