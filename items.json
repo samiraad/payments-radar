@@ -1,6 +1,121 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "items": [
+  {
+   "id": "paymentsdive-researchers-spot-ach-loopholes",
+   "title": "Researchers spot ACH loopholes",
+   "url": "https://www.paymentsdive.com/news/researchers-spot-ach-loopholes/875186/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-11-19",
+   "added": "2026-11-20",
+   "summary": "University researchers formally modeled the ACH rulebook with a model checker and found three sequences in which funds could be credited and spent before the matching debit settled, which they confirmed against real bank and payment-platform accounts before the issues were fixed. It is a strong case for treating settlement timing and reversal paths as safety properties to verify in payment system design, not just edge cases for operations to clean up.",
+   "tags": [
+    "ach",
+    "formal-verification",
+    "settlement",
+    "research"
+   ]
+  },
+  {
+   "id": "merchantfraudjournal-veriff-fraud-declined-identities-return",
+   "title": "Veriff Identity Fraud Report Finds 62% of Fraud-Declined Identities Return Within an Hour",
+   "url": "https://www.merchantfraudjournal.com/veriff-identity-fraud-report-finds-62-of-fraud-declined-identities-return-within-an-hour/",
+   "source": "Merchant Fraud Journal",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-19",
+   "added": "2026-11-20",
+   "summary": "Veriff's 2027 identity fraud data shows most identities rejected for suspected fraud try the same business again within an hour, and many later reappear at other firms in the same sector. Declines are therefore a signal to retain and share, and velocity and re-attempt detection around onboarding deserve as much attention as the first decision.",
+   "tags": [
+    "identity-verification",
+    "repeat-fraud",
+    "onboarding"
+   ]
+  },
+  {
+   "id": "paymentsjournal-tech-outages-cybercriminals-exploit",
+   "title": "Tech Outages Create Uncertainty Cybercriminals Can Exploit",
+   "url": "https://www.paymentsjournal.com/tech-outages-create-uncertainty-cybercriminals-can-exploit/",
+   "source": "PaymentsJournal",
+   "kind": "article",
+   "topic": "engineering",
+   "published": "2026-11-18",
+   "added": "2026-11-20",
+   "summary": "A run of recent outages at large tech firms, banks and agencies was not caused by attacks, but each created confusion that phishers quickly used, including a large campaign posing as cloud service-health notices. Resilience planning for payment platforms should cover the fraud window an outage opens, with clear customer messaging and verified status channels ready before an incident.",
+   "tags": [
+    "outages",
+    "resilience",
+    "phishing"
+   ]
+  },
+  {
+   "id": "merchantfraudjournal-chargeflow-ai-chargeback-management",
+   "title": "Chargeflow Survey Finds 80% of Merchants Use AI for Chargeback Management While Only 11% Have Automated",
+   "url": "https://www.merchantfraudjournal.com/chargeflow-survey-finds-80-of-merchants-use-ai-for-chargeback-management-while-only-11-have-automated/",
+   "source": "Merchant Fraud Journal",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-18",
+   "added": "2026-11-20",
+   "summary": "A vendor-commissioned survey of large US and UK merchants finds AI widely used somewhere in dispute handling but rarely running the process end to end, with AI users reporting higher win rates and most respondents seeing chargebacks climb. The gap between pilots and automation suggests the hard work in disputes is data plumbing and evidence assembly rather than the model itself.",
+   "tags": [
+    "chargebacks",
+    "disputes",
+    "automation"
+   ]
+  },
+  {
+   "id": "paymentsdive-fed-to-boost-payment-service-fees",
+   "title": "Fed to boost payment service fees",
+   "url": "https://www.paymentsdive.com/news/federal-reserve-to-boost-payment-service-fees/874911/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-11-17",
+   "added": "2026-11-20",
+   "summary": "The Federal Reserve approved modest 2027 price increases for services such as Fedwire Funds and check processing, added a new access fee with volume discounts, and held FedNow and FedACH pricing to previously announced plans. Rail pricing feeds directly into routing and cost models, so teams choosing between wire, ACH and instant payment paths should refresh their assumptions for next year.",
+   "tags": [
+    "federal-reserve",
+    "fedwire",
+    "fednow",
+    "pricing"
+   ]
+  },
+  {
+   "id": "ffnews-sumsub-identity-fraud-report-deepfakes-ai-agents",
+   "title": "Sumsub Identity Fraud Report: Deepfakes Surge 31% as AI Agents Become New Attack Vector",
+   "url": "https://ffnews.com/news/fraud-is-falling-but-it-s-getting-smarter-e8c8f7af",
+   "source": "FF News",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-17",
+   "added": "2026-11-20",
+   "summary": "Sumsub's annual figures show the overall identity fraud rate falling while deepfake attacks keep rising, and over half of surveyed businesses report fraud involving AI agents, often with money moved. Few firms can verify who authorized an agent or switch one off, which points to agent identity, delegation and revocation as controls risk platforms need to build now.",
+   "tags": [
+    "deepfakes",
+    "ai-agents",
+    "identity"
+   ]
+  },
+  {
+   "id": "paymentsjournal-mastercard-small-businesses-accept-payments-phone",
+   "title": "Mastercard Enables Small Businesses to Accept Payments by Phone",
+   "url": "https://www.paymentsjournal.com/mastercard-enables-small-businesses-to-accept-payments-by-phone/",
+   "source": "PaymentsJournal",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-17",
+   "added": "2026-11-20",
+   "summary": "Mastercard is launching a service that lets small merchants take contactless card or QR payments inside their existing banking app, with funds landing directly in the seller's account, starting outside North America and Europe. It blurs the line between card acceptance and account-to-account payments and adds another low-cost acceptance option that bypasses traditional terminals.",
+   "tags": [
+    "acceptance",
+    "contactless",
+    "small-business",
+    "qr"
+   ]
+  },
   {
    "id": "digitaltransactions-visa-agentic-ready-acquirers",
    "title": "Visa Widens Agentic Ready Beyond Issuers to Include Acquirers",
