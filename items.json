@@ -1,6 +1,74 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-23",
  "items": [
+  {
+   "id": "digitaltransactions-adyen-klarna-adyen-agentic",
+   "title": "Adyen Recruits Klarna for Payments on Adyen Agentic",
+   "url": "https://www.digitaltransactions.net/adyen-recruits-klarna-for-payments-on-adyen-agentic/",
+   "source": "Digital Transactions",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-11-20",
+   "added": "2026-11-23",
+   "summary": "Klarna is the first non-card method on Adyen's agentic commerce platform, available to existing Adyen merchants without new integration work and built on Klarna's open payment handler with per-purchase consumer confirmation. It shows agent checkout stacks expanding beyond tokenized cards, which means payment-method abstraction and confirmation flows need to work for agent-initiated orders too.",
+   "tags": [
+    "agentic-commerce",
+    "bnpl",
+    "payment-methods",
+    "checkout"
+   ]
+  },
+  {
+   "id": "ipqs-passkeys-alone-cannot-prevent-ato",
+   "title": "IPQS Warns Passkeys Alone Cannot Prevent Account Takeover and Payment Fraud",
+   "url": "https://www.globenewswire.com/news-release/2026/11/19/3406645/0/en/ipqs-warns-passkeys-alone-cannot-prevent-account-takeover-and-payment-fraud.html",
+   "source": "IPQS (GlobeNewswire)",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-19",
+   "added": "2026-11-23",
+   "summary": "A fraud-data vendor argues that passkeys harden sign-in but leave enrollment, account recovery, contact changes and checkout exposed, citing research showing many deployments let a new passkey be registered without extra confirmation. Teams rolling out passkeys should treat registration and recovery as high-risk events with their own step-up checks rather than assume login strength carries through.",
+   "tags": [
+    "passkeys",
+    "account-takeover",
+    "authentication",
+    "account-recovery"
+   ]
+  },
+  {
+   "id": "thepaypers-black-friday-2026-shopper-ai-agent",
+   "title": "Black Friday 2026: when the shopper is an AI agent",
+   "url": "https://thepaypers.com/payments/expert-views/black-friday-2026-when-the-shopper-is-an-ai-agent",
+   "source": "The Paypers",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-11-18",
+   "added": "2026-11-23",
+   "summary": "This piece pulls together forecasts and survey data on AI-assisted holiday shopping, noting that many consumers plan to use AI tools but few have let an agent complete a purchase, while agent-placed orders and holiday refund claims both climb. For risk teams it frames the peak season as the first real test of how agent errors, disputes and refund abuse get sorted out, with merchants often absorbing the loss.",
+   "tags": [
+    "agentic-commerce",
+    "holiday-peak",
+    "chargebacks",
+    "refund-abuse"
+   ]
+  },
+  {
+   "id": "thepaypers-chase-software-bug-us-banks-outage",
+   "title": "Chase software bug disrupts services at several major US banks",
+   "url": "https://thepaypers.com/payments/news/chase-software-bug-disrupts-services-at-several-major-us-banks",
+   "source": "The Paypers",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-11-17",
+   "added": "2026-11-23",
+   "summary": "A software defect at JPMorgan Chase slowed transactions and coincided with outage reports at several other large US banks and on Zelle, with services restored by the next morning and the bank ruling out a cyberattack. It is a reminder of how tightly coupled bank and real-time payment systems are, and why payment flows need graceful degradation and clear status signals when a major participant falters.",
+   "tags": [
+    "outage",
+    "resilience",
+    "real-time-payments",
+    "zelle"
+   ]
+  },
   {
    "id": "paymentsdive-researchers-spot-ach-loopholes",
    "title": "Researchers spot ACH loopholes",
