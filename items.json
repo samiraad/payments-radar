@@ -1,6 +1,122 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "items": [
+  {
+   "id": "paymentsdive-fed-president-pitches-fednow",
+   "title": "Fed president pitches FedNow",
+   "url": "https://www.paymentsdive.com/news/federal-reserve-president-faster-payments-fednow/875321/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "engineering",
+   "published": "2026-11-23",
+   "added": "2026-11-24",
+   "summary": "A regional Federal Reserve president urged credit unions to adopt instant payments, arguing that built-in fraud controls and participant-set limits can make them safer than checks, while adoption still covers only a minority of U.S. institutions ahead of a fee discount in January. Broader receiver coverage on instant rails changes the design of payouts, refunds and real-time fraud controls for anyone building on them.",
+   "tags": [
+    "fednow",
+    "real-time payments",
+    "credit unions"
+   ]
+  },
+  {
+   "id": "digitaltransactions-klarna-visa-checkout-deal",
+   "title": "A Busy Klarna Announces a Checkout Deal with Visa",
+   "url": "https://www.digitaltransactions.net/a-busy-klarna-announces-a-checkout-deal-with-visa/",
+   "source": "Digital Transactions",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-23",
+   "added": "2026-11-24",
+   "summary": "Merchants using a card network's acceptance platform can now switch on a major BNPL provider's pay-in-full and installment options in several regions without building a separate integration. Making installment payments a toggle inside existing acquiring contracts lowers the cost of offering BNPL and puts more pressure on checkout teams to manage method mix and dispute flows.",
+   "tags": [
+    "bnpl",
+    "checkout",
+    "acceptance"
+   ]
+  },
+  {
+   "id": "bleepingcomputer-cleverbridge-card-cvv-breach",
+   "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+   "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+   "source": "BleepingComputer",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-22",
+   "added": "2026-11-24",
+   "summary": "A reseller and checkout platform for software and subscription vendors says an intruder copied stored card numbers, expiry dates and security codes after unauthorized activity detected in early November, with notices going out only this week. Full card data with CVVs leaking right before peak season is a strong signal to watch for card testing and card-not-present fraud surges, and a reminder of why stored security codes are a compliance red flag.",
+   "tags": [
+    "data breach",
+    "card-not-present",
+    "cvv",
+    "ecommerce"
+   ]
+  },
+  {
+   "id": "paymentsjournal-jpmorgan-visa-mastercard-vendor-breaches",
+   "title": "JPMorgan, Visa, and Mastercard Breaches Expose Third-Party Vulnerabilities",
+   "url": "https://www.paymentsjournal.com/jpmorgan-visa-and-mastercard-breaches-expose-third-party-vulnerabilities/",
+   "source": "PaymentsJournal",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-11-20",
+   "added": "2026-11-24",
+   "summary": "A large bank and both major card networks disclosed that outside vendors were hit in a cyberattack that exposed marketing data such as names and email addresses, though no payment data was reported as taken. Contact lists tied to known financial brands are prime fuel for phishing and impersonation scams, so fraud teams should expect more convincing lures and revisit vendor risk controls.",
+   "tags": [
+    "third-party risk",
+    "phishing",
+    "data breach"
+   ]
+  },
+  {
+   "id": "pymnts-avant-public-plaid-faster-payments-fraud",
+   "title": "Avant, Public.com and Plaid on Fraud Risk in Faster Payments",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/avant-public-com-and-plaid-on-fraud-risk-in-faster-payments/",
+   "source": "PYMNTS",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-11-20",
+   "added": "2026-11-24",
+   "summary": "Executives from a lender, a brokerage and a data network discuss when to release funds before a bank debit settles, how ACH return codes separate unauthorized fraud from first-party abuse, and why new accounts get closer withdrawal scrutiny. It is a practical look at the trade-off between instant availability and return risk that any team offering fast funding has to model.",
+   "tags": [
+    "ach",
+    "first-party fraud",
+    "faster payments",
+    "consortium data"
+   ]
+  },
+  {
+   "id": "paymentsjournal-public-transit-contactless-adoption",
+   "title": "How Public Transit Is Driving Contactless Payment Adoption",
+   "url": "https://www.paymentsjournal.com/how-public-transit-is-driving-contactless-payment-adoption/",
+   "source": "PaymentsJournal",
+   "kind": "article",
+   "topic": "retail",
+   "published": "2026-11-20",
+   "added": "2026-11-24",
+   "summary": "Card issuer research shows tap-to-pay now dominates transit card transactions, and riders who start tapping on buses and trains go on to use contactless more often at other merchants. Transit acts as a forcing function for late adopters, which helps retailers and grocers plan for a growing share of tap and wallet traffic at the lane.",
+   "tags": [
+    "contactless",
+    "transit",
+    "tap to pay",
+    "wallets"
+   ]
+  },
+  {
+   "id": "pymnts-jpmorgan-one-ai-model-85-more-fraud",
+   "title": "JPMorgan Builds One AI Model to Catch 85% More Fraud",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/jpmorgan-builds-one-ai-model-to-catch-85-more-fraud/",
+   "source": "PYMNTS",
+   "kind": "article",
+   "topic": "engineering",
+   "published": "2026-11-17",
+   "added": "2026-11-24",
+   "summary": "A major bank describes a single foundation-style payments model trained across card, ACH and wire data that handles fraud scoring, authorization prediction and retry decisions, reporting large relative gains over its task-specific models. The approach, and its caveats around missing absolute benchmarks, is a useful reference for teams weighing one shared risk model against a zoo of specialized ones.",
+   "tags": [
+    "fraud ml",
+    "foundation models",
+    "retries",
+    "authorization"
+   ]
+  },
   {
    "id": "digitaltransactions-adyen-klarna-adyen-agentic",
    "title": "Adyen Recruits Klarna for Payments on Adyen Agentic",
