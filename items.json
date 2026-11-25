@@ -1,6 +1,103 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "items": [
+  {
+   "id": "thepaypers-visa-recurrent-subscription-management",
+   "title": "Visa launches Visa Recurrent subscription management",
+   "url": "https://thepaypers.com/payments/news/visa-launches-visa-recurrent-subscription-management",
+   "source": "The Paypers",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-25",
+   "added": "2026-11-25",
+   "summary": "Visa introduced a tool that lets cardholders view and manage recurring card payments inside their bank app, starting with an Asia-Pacific launch issuer. Easier issuer-side cancellation can cut subscription-related disputes but also adds a new path for stopped payments that merchant billing and retry logic must handle.",
+   "tags": [
+    "subscriptions",
+    "recurring payments",
+    "disputes"
+   ]
+  },
+  {
+   "id": "thepaypers-php2shell-merchants-marketplaces-peak-season",
+   "title": "PHP2Shell: what merchants and marketplaces need to do ahead of peak season",
+   "url": "https://thepaypers.com/payments/interviews/php2shell-what-merchants-and-marketplaces-need-to-do-ahead-of-peak-season",
+   "source": "The Paypers",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-11-24",
+   "added": "2026-11-25",
+   "summary": "A marketplace security chief walks through the PHP2Shell remote-code-execution flaws, which were exploited before disclosure, and lays out inventory, patch verification, credential rotation and rebuild steps. Compromised checkout servers are a classic route to card skimming and payout tampering, making this a timely checklist before holiday traffic peaks.",
+   "tags": [
+    "vulnerability",
+    "checkout security",
+    "skimming"
+   ]
+  },
+  {
+   "id": "thepaypers-cifas-ceo-connecting-intelligence-stop-fraud",
+   "title": "Connecting intelligence to stop fraud: Cifas CEO Mike Haley",
+   "url": "https://thepaypers.com/fraud-and-fincrime/interviews/connecting-intelligence-to-stop-fraud-cifas-ceo-mike-haley",
+   "source": "The Paypers",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-11-23",
+   "added": "2026-11-25",
+   "summary": "The head of the UK fraud-prevention body reports record fraud-risk filings in the first half of 2026, with identity fraud, account takeover and especially money-mule cases climbing, and argues for intelligence sharing across banks, telcos and platforms plus risk-triggered friction. The numbers and the cross-sector approach are useful benchmarks for anyone tuning mule detection or step-up authentication.",
+   "tags": [
+    "money mules",
+    "account takeover",
+    "data sharing"
+   ]
+  },
+  {
+   "id": "paymentsdive-trump-signs-common-cents-bill",
+   "title": "Trump signs Common Cents bill",
+   "url": "https://www.paymentsdive.com/news/trump-signs-common-cents-bill/875442/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-23",
+   "added": "2026-11-25",
+   "summary": "The penny phase-out law is now signed, giving merchants a legal framework to round cash totals to the nearest nickel while leaving electronic payments at exact amounts. Point-of-sale, receipt and reconciliation logic at grocers and other cash-heavy retailers will need rounding rules that apply only to cash tenders.",
+   "tags": [
+    "penny",
+    "cash rounding",
+    "point of sale"
+   ]
+  },
+  {
+   "id": "stripe-learning-from-explanations",
+   "title": "Learning from explanations",
+   "url": "https://stripe.dev/blog/learning-from-explanations",
+   "source": "Stripe",
+   "kind": "blog",
+   "topic": "engineering",
+   "published": "2026-11-19",
+   "added": "2026-11-25",
+   "summary": "Stripe's applied AI team describes training a risk model first on written explanations and then on labels, which lifted recall substantially at human-review precision, followed by a distillation step that restored the model's ability to explain itself. It is a concrete recipe for teams trying to get both better fraud and credit decisions and auditable reasoning out of fine-tuned language models.",
+   "tags": [
+    "fraud ml",
+    "llm",
+    "risk models",
+    "explainability"
+   ]
+  },
+  {
+   "id": "paymentsjournal-why-sharing-data-vital-fighting-fraud",
+   "title": "Why Sharing Data Is Vital to Fighting Fraud",
+   "url": "https://www.paymentsjournal.com/why-sharing-data-is-vital-to-fighting-fraud/",
+   "source": "PaymentsJournal",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-11-19",
+   "added": "2026-11-25",
+   "summary": "A podcast discussion covers why US banks remain reluctant to pool fraud intelligence, how pseudonymized consortium data can work, and pending legislation meant to ease legal barriers. Shared signals and their lag time directly affect how fast scam and mule patterns can be caught, which matters to anyone designing consortium inputs to fraud models.",
+   "tags": [
+    "consortium data",
+    "scams",
+    "fraud intelligence"
+   ]
+  },
   {
    "id": "paymentsdive-fed-president-pitches-fednow",
    "title": "Fed president pitches FedNow",
