@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "items": [
+  {
+   "id": "paymentsdive-illinois-fights-for-interchange-law",
+   "title": "Illinois fights for interchange law",
+   "url": "https://www.paymentsdive.com/news/illinois-fights-for-interchange-law/875779/",
+   "source": "Payments Dive",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-25",
+   "added": "2026-11-26",
+   "summary": "Illinois has asked the 7th Circuit to revive its first-in-the-nation ban on interchange charged over sales tax and tips, contending that federal banking regulators issued their preemption rules without proper public comment. The appeal decides whether state-level swipe-fee rules survive, which would force acquirers, processors and merchants to split fee calculations by transaction component and by state.",
+   "tags": [
+    "interchange",
+    "illinois",
+    "preemption",
+    "litigation"
+   ]
+  },
+  {
+   "id": "digitaltransactions-ai-agents-changing-know-your-customer",
+   "title": "AI Agents Are Changing What It Means to 'Know Your Customer'",
+   "url": "https://www.digitaltransactions.net/ai-agents-are-changing-what-it-means-to-know-your-customer/",
+   "source": "Digital Transactions",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-11-25",
+   "added": "2026-11-26",
+   "summary": "This commentary contends that customer-authorized AI agents acting in the same session as a person blur the line between legitimate automation and account takeover, and that one-time identity checks no longer settle who is acting. It pushes risk teams toward continuous evaluation of intent across app sessions and agent tool calls, a shift that affects how session, device and behavioral signals are modeled.",
+   "tags": [
+    "kyc",
+    "ai-agents",
+    "account-takeover",
+    "identity"
+   ]
+  },
+  {
+   "id": "digitaltransactions-buyout-firms-target-global-payments",
+   "title": "Buyout Firms Target Global Payments",
+   "url": "https://www.digitaltransactions.net/buyout-firms-target-global-payments/",
+   "source": "Digital Transactions",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-25",
+   "added": "2026-11-26",
+   "summary": "Private equity firm GTCR, already a large shareholder, is reportedly lining up financing for a possible takeover of Global Payments in a deal valued near 50 billion dollars including debt, though no decision has been announced. A buyout of one of the largest merchant acquirers could reshape pricing, product roadmaps and integration priorities for the many retailers that rely on it for card acceptance.",
+   "tags": [
+    "acquiring",
+    "m-and-a",
+    "global-payments"
+   ]
+  },
+  {
+   "id": "merchantfraudjournal-check-point-black-friday-retail-attacks",
+   "title": "Black Friday Scams Surge as Check Point Finds Attacks on Retailers up 28%",
+   "url": "https://www.merchantfraudjournal.com/black-friday-scams-surge-as-check-point-finds-attacks-on-retailers-up-28/",
+   "source": "Merchant Fraud Journal",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-20",
+   "added": "2026-11-26",
+   "summary": "Check Point Research found attacks on consumer goods and services businesses climbed faster than the cross-industry average this fall, alongside thousands of newly registered sale-themed and shipping-lookalike domains, many already flagged as risky. Lookalike storefronts and delivery phishing feed stolen credentials and cards into peak-season checkout, so domain monitoring and tighter login and payment controls matter most this week.",
+   "tags": [
+    "phishing",
+    "holiday-peak",
+    "lookalike-domains",
+    "retail"
+   ]
+  },
+  {
+   "id": "formance-ledger-behind-authorization-card-issuing",
+   "title": "The Ledger Behind Every Authorization in Card Issuing Platforms",
+   "url": "https://www.formance.com/blog/financial-operations/card-issuing-platforms-authorization-ledgers",
+   "source": "Formance",
+   "kind": "blog",
+   "topic": "engineering",
+   "published": "2026-11-05",
+   "added": "2026-11-26",
+   "summary": "A vendor engineering guide walks through modeling card authorization holds as ledger postings, using atomic writes or an append-only log to avoid double approvals, and deriving idempotency keys from the network transaction ID and message type. Its approach of correcting settlement mismatches with compensating entries rather than edits is a solid pattern for any team building issuing or balance systems.",
+   "tags": [
+    "ledger",
+    "idempotency",
+    "card-issuing",
+    "authorization"
+   ]
+  },
   {
    "id": "thepaypers-visa-recurrent-subscription-management",
    "title": "Visa launches Visa Recurrent subscription management",
