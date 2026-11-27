@@ -1,6 +1,74 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "items": [
+  {
+   "id": "thepaypers-uk-finance-fraud-losses-h1-2026",
+   "title": "UK Finance: fraud losses rise to GBP 660 mln in first half of 2026",
+   "url": "https://thepaypers.com/fraud-and-fincrime/news/uk-finance-fraud-losses-rise-to-gbp-660-mln-in-first-half-of-2026",
+   "source": "The Paypers",
+   "kind": "news",
+   "topic": "fraud",
+   "published": "2026-11-26",
+   "added": "2026-11-27",
+   "summary": "UK Finance's half-year figures put payment fraud and scam losses up about 8% year over year, with authorised push payment scams climbing 22% while unauthorised card and account fraud edged down. The widening gap between falling unauthorised fraud and rising scams shows why controls built around credentials and authentication increasingly need behavioral and context signals that catch manipulated but genuine customers.",
+   "tags": [
+    "app-fraud",
+    "scams",
+    "uk",
+    "fraud-losses"
+   ]
+  },
+  {
+   "id": "digitalcommerce360-adobe-holiday-spending-pre-thanksgiving",
+   "title": "Adobe data shows online holiday spending up 9.1% ahead of Thanksgiving",
+   "url": "https://www.digitalcommerce360.com/2026/11/25/adobe-online-holiday-spending-data/",
+   "source": "Digital Commerce 360",
+   "kind": "news",
+   "topic": "retail",
+   "published": "2026-11-25",
+   "added": "2026-11-27",
+   "summary": "Adobe Analytics counts more than 82 billion dollars of US online spending from November 1 to 22, up about 9% on last year, with buy now pay later growing and AI-referred retail visits more than doubling. Those volumes set the baseline for peak-week capacity, authorization and fraud review planning, and the AI-referral growth hints at how much shopping traffic now arrives via assistants.",
+   "tags": [
+    "holiday-peak",
+    "ecommerce",
+    "ai-traffic",
+    "bnpl"
+   ]
+  },
+  {
+   "id": "forbes-fbi-503m-non-delivery-non-payment-fraud",
+   "title": "Black Friday Scams: FBI Data Shows $503 Million Lost To Non-Delivery And Non-Payment Fraud",
+   "url": "https://www.forbes.com/sites/larsdaniel/2026/11/24/black-friday-scams-fbi-data-shows-503-million-lost-to-non-delivery-and-non-payment-fraud/",
+   "source": "Forbes",
+   "kind": "article",
+   "topic": "fraud",
+   "published": "2026-11-24",
+   "added": "2026-11-27",
+   "summary": "Drawing on the FBI's latest internet crime report, the piece tallies about half a billion dollars lost to non-delivery and non-payment schemes and notes a growing slice of losses tied to AI-assisted scams, alongside Treasury's holiday warnings. Fake storefronts and undelivered goods feed directly into post-peak dispute queues, so merchants and acquirers should expect non-delivery claims to weigh heavily on chargeback ratios in the weeks ahead.",
+   "tags": [
+    "scams",
+    "non-delivery",
+    "chargebacks",
+    "holiday-peak"
+   ]
+  },
+  {
+   "id": "forbes-ai-shopping-agent-needs-id-checkout",
+   "title": "Your AI Shopping Agent Needs an ID Before It Can Check Out",
+   "url": "https://www.forbes.com/sites/jeffgapusan/2026/11/23/your-ai-shopper-is-ready-to-buy-its-payment-credentials-arent/",
+   "source": "Forbes",
+   "kind": "article",
+   "topic": "engineering",
+   "published": "2026-11-23",
+   "added": "2026-11-27",
+   "summary": "This column argues the bottleneck for agent-driven shopping is payment trust plumbing rather than model capability, comparing scoped credentials such as Stripe shared payment tokens, Mastercard Agent Pay and Google AP2 mandates. It makes the case for a common know-your-agent standard, which is the design question teams face when deciding how to accept, authenticate and score agent-initiated payments.",
+   "tags": [
+    "agentic-commerce",
+    "know-your-agent",
+    "tokenization",
+    "protocols"
+   ]
+  },
   {
    "id": "paymentsdive-illinois-fights-for-interchange-law",
    "title": "Illinois fights for interchange law",
